@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v12.1",
+    "Mode":  "Read-only representative type01 bounded header probes",
+    "InputType01Candidates":  3775,
+    "TargetsSelected":  48,
+    "DirectReadsSucceeded":  48,
+    "TargetsMissingPriorProbe":  0,
+    "LegacyPackageTagCandidates":  0,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "PackageHeaderParserExecuted":  false,
+    "VerifiedPackageNames":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs cumulative v12.0 and earlier",
+                  "Deterministic size-spread target selection",
+                  "Bounded method-0 reads within first compression block only",
+                  "Header numeric fields are not validated Unreal package structures",
+                  "No decryption, decompression, extraction, or game modification"
+              ]
+}

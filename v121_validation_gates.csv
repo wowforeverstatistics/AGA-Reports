@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Verified","Evidence"
+"V120BaselineCompleted","True","True","v12.0 manifest reports no errors and positive type01 candidate count"
+"RepresentativeType01DirectReads","True","True","48 of 48 selected targets directly read"
+"IndependentEngineTypeMapping","False","False","No independently verified Unreal Engine source/parser included"
+"PackageHeadersParsed","False","False","Numeric prefix words and magic checks are diagnostic only"
+"PackageNamesVerified","False","False","No package directory or export map decoding"
+"GatheringCoordinatesVerified","False","False","No decoded gathering assets or world coordinates"
