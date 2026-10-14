@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsLoaded","True","Asset inventory"
+"PropertyContextsCaptured","True","Named marker neighborhoods"
+"FloatStridesScreened","True","Fixed stride tests 4,8,12,16"
+"IndependentPairsCompared","True","Four negative control pairs"
+"TypedPropertyValuesVerified","False","No independent property decoder"
+"GatheringCoordinatesVerified","False","No validated world-space transform"

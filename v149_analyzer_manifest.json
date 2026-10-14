@@ -1,0 +1,18 @@
+﻿{
+    "Tool":  "AGA v14.9",
+    "Mode":  "Read-only resource property context and float-sequence falsification",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "PropertyContextRows":  28,
+    "FloatStrideRows":  276,
+    "NegativeControlPairs":  4,
+    "Errors":  0,
+    "TypedPropertyValuesVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "No typed values inferred from adjacent ASCII markers",
+                  "Float sequence scores are hypotheses only",
+                  "No game files modified"
+              ]
+}
