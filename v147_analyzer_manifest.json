@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v14.7",
+    "Mode":  "Read-only foliage record boundary and variable-length serialization falsification",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "CandidateSegments":  5,
+    "LengthFieldHypotheses":  72,
+    "IndependentPairs":  4,
+    "Errors":  0,
+    "SerializedRecordVerified":  false,
+    "TypedResourceValuesVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "All offsets bounded to asset data",
+                  "Numerical fits do not validate serialized field meanings",
+                  "No game files modified"
+              ]
+}

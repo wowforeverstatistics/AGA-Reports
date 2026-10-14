@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsLoaded","True","Asset inventory"
+"FiveRegionsScreened","True","Explicit candidate segments"
+"LengthCandidatesScreened","True","1,2,4-byte lengths near boundaries"
+"FourIndependentPairs","True","Negative controls"
+"SerializedRecordVerified","False","No validated field map or independent decoder"
+"TypedResourceValuesVerified","False","No verified resource property decoding"
+"GatheringCoordinatesVerified","False","No verified spatial schema"
