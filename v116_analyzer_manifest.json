@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v11.6",
+    "Mode":  "Read-only candidate type 01/02 shared-ID and container/prefix correlation",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "InputChunkSamples":  5497,
+    "Type01Type02PairGroups":  95,
+    "PairContainerOverlapGroups":  1,
+    "CandidateTypeProfiles":  6,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "VerifiedPackageBulkMappings":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs v11.5.1 hotfix and all earlier analyzers",
+                  "Shared first eight bytes do not establish package/bulk association",
+                  "No engine source reference or external parser included",
+                  "Read-only; no decryption, decompression, extraction or game modifications"
+              ]
+}

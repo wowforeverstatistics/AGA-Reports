@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Verified","Evidence"
+"V115BaselineCompleted","True","True","v11.5 manifest reports no errors and positive sample count"
+"IdentifierHexAndRowCountValidated","True","True","5497 12-byte chunk IDs"
+"Type01Type02SharedFirst8Observed","True","True","95 shared first-eight-byte groups"
+"IndependentEngineTypeReferenceMatched","False","False","No engine source header or independent parser included"
+"PackageBulkSemanticsVerified","False","False","Byte correlation alone cannot verify package/bulk type meanings"
+"GatheringAssetsOrCoordinatesVerified","False","False","No independently decoded paths, assets, or world coordinates"
