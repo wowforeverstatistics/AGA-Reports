@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v10.2",
+    "Mode":  "Read-only candidate IoStore TOC header and chunk table bounds investigation",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  91,
+    "CandidateHeaderPlausible":  91,
+    "CandidateBlockTablesFit":  91,
+    "CandidateDirectoryBytesFit":  90,
+    "Gates":  8,
+    "Errors":  0,
+    "VerifiedChunkIds":  0,
+    "VerifiedPackageMappings":  0,
+    "VerifiedResourceProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs v10.1 and earlier",
+                  "Header offsets and table lengths are hypotheses pending independent decoder verification",
+                  "Does not decrypt, decompress or extract content",
+                  "No game files modified"
+              ]
+}
