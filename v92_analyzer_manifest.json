@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v9.2",
+    "Mode":  "Read-only property structure validation gates",
+    "Candidates":  14,
+    "NameChecks":  14,
+    "BoolNoneInvestigations":  1,
+    "ValidationGateRows":  8,
+    "Errors":  0,
+    "VerifiedNameTableReferences":  0,
+    "VerifiedRecordBoundaries":  0,
+    "VerifiedPropertyValues":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Cumulative run executes v9.1, v9.0, v8.9 and v8.8",
+                  "Raw ASCII/UTF16 search is not an FName decoder",
+                  "Primitive size compatibility is a falsifiable heuristic",
+                  "Blueprint name roles remain unverified",
+                  "No asset modifications or coordinate assertions"
+              ]
+}
