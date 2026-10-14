@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v12.3",
+    "Mode":  "Read-only boundary-aware environmental asset discovery",
+    "InputType01Candidates":  0,
+    "EligibleCandidates":  0,
+    "TargetsSelected":  0,
+    "PrioritizedFromV122":  0,
+    "DirectReadsSucceeded":  0,
+    "BoundaryAwareHits":  0,
+    "Errors":  1,
+    "VerifiedPackageNames":  0,
+    "VerifiedHarvestableAssets":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs v12.2 and earlier cumulatively",
+                  "Only v11.0 eligible method-0 physical reads",
+                  "Bounded first-block reads, no decryption or decompression",
+                  "Context classification is heuristic, not proof of resource nodes",
+                  "No game files modified"
+              ]
+}
