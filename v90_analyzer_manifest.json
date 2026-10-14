@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v9.0",
+    "Mode":  "Read-only descriptor boundary and counterexample investigation",
+    "CandidateWindows":  1,
+    "CounterexampleWindows":  0,
+    "BoundaryTests":  1,
+    "ControlAssets":  6,
+    "Errors":  13,
+    "VerifiedProperties":  0,
+    "VerifiedDescriptorBoundaries":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Executes v8.8 then v8.9 baseline through the v8.9 analyzer",
+                  "Raw byte windows and SHA256 provenance support manual and independent parser comparison",
+                  "Table boundaries are heuristic and are not Unreal property boundaries",
+                  "No schema, coordinates, or property values are asserted",
+                  "Windows PowerShell 5.1 runtime not yet validated on user machine"
+              ]
+}

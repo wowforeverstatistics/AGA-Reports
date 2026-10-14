@@ -1,0 +1,2 @@
+﻿"File","Offset","TypeName","FieldName","TableStart","TableEndExclusive","TableBoundsPlausible","CandidateWithin72ByteTable","RecordIndex","RecordStart","RecordEndExclusive","OffsetWithinRecord","DescriptorBoundaryVerified","Note"
+"ResourceNode.uasset","800","IntProperty","QuantityMin_18_73E53B0846F2FBEB754C8CB8A25CEB51","488","560","True","False","-1","-1","-1","-1","False","72-byte table alignment is a structural observation; it does not establish Unreal property serialization"
