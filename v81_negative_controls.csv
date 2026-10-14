@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","ExactStringOccurrences","ConstrainedNameCandidates","RepeatedSignatures","VerifiedGatheringData","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","1","0","0","False","Control comparisons; counts are not equivalent to verified properties"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","1","3","0","False","Control comparisons; counts are not equivalent to verified properties"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","0","0","0","False","Control comparisons; counts are not equivalent to verified properties"
+"ResourceNodeType.uasset","ResourceNodeType","False","0","0","0","False","Control comparisons; counts are not equivalent to verified properties"
+"ResourceNode.uasset","ResourceNode","False","0","4","0","False","Control comparisons; counts are not equivalent to verified properties"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","2","82","53","False","Control comparisons; counts are not equivalent to verified properties"

@@ -1,0 +1,7 @@
+﻿"File","Role","Bytes","HeaderField4","CandidateRecords","CandidateNames","Continuous","EndsAtEOF","ExactStringOccurrences","ConstrainedNameCandidates","RepeatedSignatures","VerifiedProperties","VerifiedDependencies","VerifiedSpawnCoordinates"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","693","576","2","6","True","True","1","0","0","0","0","0"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","262704","416","1","4","True","True","1","3","0","0","0","0"
+"ResourceNodeTable.uasset","ResourceNodeTable","437","408","1","3","True","True","0","0","0","0","0","0"
+"ResourceNodeType.uasset","ResourceNodeType","531","416","1","5","True","True","0","0","0","0","0","0"
+"ResourceNode.uasset","ResourceNode","913","668","1","9","True","True","0","4","0","0","0","0"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","13365","7548","27","111","True","True","2","82","53","0","0","0"

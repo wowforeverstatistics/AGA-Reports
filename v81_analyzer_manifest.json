@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v8.1",
+    "Mode":  "Targeted serialization and resource string context analysis",
+    "Assets":  6,
+    "ExactStringOccurrences":  4,
+    "RepeatedRecordSignatures":  53,
+    "ConstrainedNameCandidates":  89,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Read-only targeted inspection of known markers",
+                  "Tests nonzero local-index + zero number in aligned 8-byte pairs",
+                  "Reports repeated nonzero 8-byte patterns at matching record-relative positions",
+                  "All semantics remain unverified; Windows PowerShell 5.1 runtime not tested by packager"
+              ]
+}
