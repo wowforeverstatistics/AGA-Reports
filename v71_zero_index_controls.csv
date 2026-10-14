@@ -1,0 +1,7 @@
+﻿"File","Role","ZeroIndexSlotsExcluded","NonzeroNameIndexCandidates","FocalGatheringMatches","AdjacentNonzeroIndexPairs","UnrelatedTexture","ValidatedRecordStructure"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","40","8","0","2","False","False"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","1359","7","0","2","True","False"
+"ResourceNodeTable.uasset","ResourceNodeTable","21","4","0","0","False","False"
+"ResourceNodeType.uasset","ResourceNodeType","26","2","0","0","False","False"
+"ResourceNode.uasset","ResourceNode","44","11","9","2","False","False"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","557","464","13","221","False","False"

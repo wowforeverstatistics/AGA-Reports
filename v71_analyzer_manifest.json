@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v7.1",
+    "Mode":  "Candidate record boundary reconstruction and nonzero index control",
+    "Assets":  6,
+    "NonzeroIndexRows":  496,
+    "CandidateTilings":  840,
+    "AdjacentIndexPairs":  227,
+    "RawHexWindows":  53,
+    "Errors":  0,
+    "VerifiedProperties":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Excludes zero name indexes from reference candidate scoring",
+                  "Compares candidate stride, phase, and slot across bounded regions",
+                  "Tiling scores are heuristic and are NOT verified record layouts",
+                  "Includes unrelated texture negative control",
+                  "No inferred resource quantities or coordinates"
+              ]
+}
