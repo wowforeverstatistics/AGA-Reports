@@ -1,0 +1,7 @@
+﻿"Check","Status","Detail"
+"Directory","Observed","Inventory=2932 entries; selected=11; filename matches only"
+"BlockTable","Pass","Start=70538 Declared=32581 Shift=5868 End=461510"
+"Reconstruction","Observation","Complete=11 of 11; candidate payloads; no reference samples available"
+"Extraction","Observation","FilesWritten=11 ExplicitOptIn=True"
+"BlueprintSignals","Heuristic","NUL-terminated candidate names and keyword hits only; no Unreal Blueprint bytecode interpretation"
+"SpawnCoordinates","Unverified","No world coordinates parsed or verified"

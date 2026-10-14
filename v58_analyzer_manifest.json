@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v5.8",
+    "Status":  "Completed",
+    "Mode":  "Read-only harvestable Blueprint and map-registration candidate investigation",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "ShiftBytes":  5868,
+    "CompleteCandidatePayloads":  11,
+    "FilesWritten":  11,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  5.68,
+    "Notes":  [
+                  "Directory UserData is treated as candidate chunk index, not proven ownership",
+                  "No reference hash exists for these new candidates",
+                  "Default mode writes reports only",
+                  "Candidate extraction requires explicit opt-in",
+                  "Previous analyzers preserved"
+              ]
+}
