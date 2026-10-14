@@ -1,0 +1,18 @@
+﻿{
+    "Tool":  "AGA v9.8",
+    "Mode":  "Read-only boundary-prefix and header-count falsification",
+    "Assets":  2,
+    "BoundaryPrefixTests":  12,
+    "HeaderRelationshipTests":  14,
+    "Gates":  8,
+    "Errors":  0,
+    "VerifiedNameMaps":  0,
+    "VerifiedNameEntryBoundaries":  0,
+    "VerifiedProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Cumulative execution of v9.7.1 and earlier",
+                  "Tests are exploratory; no name-map decoding",
+                  "Read-only; source hashes validated"
+              ]
+}
