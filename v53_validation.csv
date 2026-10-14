@@ -1,0 +1,6 @@
+﻿"Check","Status","Detail"
+"Geometry","Pass","Chunks=2933 DeclaredBlocks=32581 EffectiveHypothesis=33070 BlockStart=64670 DirectoryAt=461510"
+"AnomalyClusters","Observation","AnomalousEntries=489 Clusters=1"
+"Ownership","Unverified","No validated directory-to-chunk mapping or payload digest association"
+"PayloadExtraction","Pass","No UCAS payload bytes read or written; metadata only"
+"SpawnCoordinates","Unverified","No spawn coordinates parsed"

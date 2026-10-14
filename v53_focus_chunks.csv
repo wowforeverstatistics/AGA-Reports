@@ -1,0 +1,5 @@
+﻿"ChunkIndex","CandidateName","LogicalOffset","LogicalLength","FixedBlock","FixedLastBlock","FixedBlockMethod","FixedBlockFlags","FixedBlockPhysical","Ownership"
+"247","ResourceNodeTable.uasset","432078848","437","6593","6593","0","","365162432","Unverified"
+"1981","ResourceNodeType.uasset","431947776","531","6591","6591","0","","365035520","Unverified"
+"2212","ResourceNode.uasset","432013312","913","6592","6592","0","","365096896","Unverified"
+"2637","UnmappedChunk2637","2135031808","153952","32578","32580","0","","2261843968","Unverified"

@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v5.3",
+    "Status":  "Completed",
+    "Mode":  "Read-only early-block anomaly and logical geometry investigation",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "UcasChecked":  true,
+    "UcasBytes":  2296879456,
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "EffectiveBlocksHypothesis":  33070,
+    "AnomalousEntries":  489,
+    "AnomalyClusters":  1,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  9.5,
+    "Notes":  [
+                  "Early block alternate layouts are diagnostic only",
+                  "No asset reconstruction or payload extraction",
+                  "No changes to game files",
+                  "Prior analyzers preserved"
+              ]
+}
