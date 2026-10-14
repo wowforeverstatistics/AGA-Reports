@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v6.5",
+    "Mode":  "Adaptive packed-name hypothesis and bounded cooked-package structure audit",
+    "Candidates":  2,
+    "PackedNameEntries":  10,
+    "HeaderOffsetChecks":  20,
+    "CandidateRegions":  11,
+    "EmbeddedPaths":  2,
+    "BlockLayouts":  2,
+    "Errors":  0,
+    "ParsedImports":  0,
+    "ParsedExports":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Adaptive packed-name candidate: scan aligned LE32 count/total pairs in first 96 bytes, BE16 length arrays in first 512 bytes, contiguous UTF8 names",
+                  "Name-map decoding uses exhaustive bounded candidates and a semantic ranking; structurally consistent on target and unrelated control, but not independently certified as UE Zen",
+                  "Import/export table meanings are not inferred from raw offsets",
+                  "Archive files opened read-only; no game data modified"
+              ]
+}
