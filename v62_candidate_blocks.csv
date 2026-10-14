@@ -1,0 +1,5 @@
+﻿"Layout","BlockStart","CandidateChunkIndex","IndexMeaning","LogicalOffset","LogicalLength","BlocksRead","CandidateReadable","Failure","Ownership"
+"DeclaredBlockStart","36356","285","DirectoryUserData","5701632","693","0","False","Invalid uncompressed block size","Unverified"
+"DeclaredBlockStart","36356","273","DirectoryFileIndex","36896768","262704","0","False","Compression method=1 unsupported","Unverified"
+"EndDerivedBlockStart","39648","285","DirectoryUserData","5701632","693","1","True","","Unverified"
+"EndDerivedBlockStart","39648","273","DirectoryFileIndex","36896768","262704","5","True","","Unverified"

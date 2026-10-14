@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v6.2",
+    "Status":  "CompletedDiagnostics",
+    "FocusContainer":  "pakchunk2-WindowsClient.utoc",
+    "FocusAsset":  "MapRegistrationComponentBP.uasset",
+    "KnownDirectoryFileIndex":  273,
+    "KnownDirectoryUserData":  285,
+    "LayoutCandidates":  2,
+    "CandidateChecks":  4,
+    "ReadableCandidateLayouts":  2,
+    "ExtractionRequested":  true,
+    "CandidatesWritten":  2,
+    "Errors":  0,
+    "VerifiedOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Candidate payloads are unverified even if readable",
+                  "A block geometry match does not prove Blueprint identity",
+                  "No compression methods other than method 0 are decoded",
+                  "Game files opened read-only",
+                  "Earlier v6.1 multi-container scanner remains available"
+              ]
+}

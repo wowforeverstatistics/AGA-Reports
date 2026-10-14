@@ -1,0 +1,3 @@
+﻿"Container","Layout","HeaderSize","ChunkCount","BlockCount","BlockSize","DirectorySize","TOCBytes","UCASBytes","LogicalTableAt","DeclaredBlockStart","IndexDerivedDirectoryAt","EndDerivedDirectoryAt","CandidateBlockStart","ShiftBytes","ShiftDivisibleBy12","InBounds"
+"pakchunk2-WindowsClient.utoc","DeclaredBlockStart","144","1646","6052","65536","95782","247558","346328640","19896","36356","108980","112272","36356","0","True","True"
+"pakchunk2-WindowsClient.utoc","EndDerivedBlockStart","144","1646","6052","65536","95782","247558","346328640","19896","36356","108980","112272","39648","3292","False","True"
