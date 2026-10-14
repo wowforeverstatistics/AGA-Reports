@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v8.0",
+    "Mode":  "Read-only candidate serialized payload investigation",
+    "Assets":  6,
+    "PayloadSegments":  33,
+    "AsciiMarkers":  509,
+    "CandidateNameIndices":  8881,
+    "ResourceRelationshipTests":  3,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests candidate payload segments using header-field-4 base",
+                  "Extracts printable ASCII runs and aligned local-name-index coincidences",
+                  "Checks candidate resource asset relationships without asserting dependencies",
+                  "Unrelated texture is a generic-format negative control",
+                  "All serialized semantics unverified; Windows PowerShell 5.1 runtime test pending"
+              ]
+}

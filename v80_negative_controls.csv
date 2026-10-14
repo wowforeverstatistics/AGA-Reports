@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","CandidateRecords","Contiguous","EndsAtEOF","AsciiRuns","CandidateNameMatches","VerifiedGatheringContent","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","2","True","True","1","12","False","Generic format control; no inferred gathering ownership"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","1","True","True","504","8206","False","Generic format control; no inferred gathering ownership"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","1","True","True","0","2","False","Generic format control; no inferred gathering ownership"
+"ResourceNodeType.uasset","ResourceNodeType","False","1","True","True","1","9","False","Generic format control; no inferred gathering ownership"
+"ResourceNode.uasset","ResourceNode","False","1","True","True","0","31","False","Generic format control; no inferred gathering ownership"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","27","True","True","3","621","False","Generic format control; no inferred gathering ownership"

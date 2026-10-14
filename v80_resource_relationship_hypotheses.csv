@@ -1,0 +1,4 @@
+﻿"LeftAsset","RightAsset","LeftRecords","RightRecords","LeftCandidateNames","RightCandidateNames","SharedCandidateNameTexts","SharedCandidateNameCount","VerifiedDependency","Note"
+"ResourceNodeTable.uasset","ResourceNodeType.uasset","1","1","1","1","","0","False","Candidate name-index collisions do not prove serialized references"
+"ResourceNodeTable.uasset","ResourceNode.uasset","1","1","1","6","","0","False","Candidate name-index collisions do not prove serialized references"
+"ResourceNodeType.uasset","ResourceNode.uasset","1","1","1","6","","0","False","Candidate name-index collisions do not prove serialized references"
