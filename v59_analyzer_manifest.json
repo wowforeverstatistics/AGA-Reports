@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v5.9",
+    "Status":  "Completed",
+    "Mode":  "Read-only prioritized Blueprint dependency discovery and candidate inspection",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "ShiftBytes":  5868,
+    "CompleteCandidatePayloads":  4,
+    "FilesWritten":  4,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  5.49,
+    "Notes":  [
+                  "Directory UserData is candidate chunk index only",
+                  "Missing dependencies refer to this single container, not entire installation",
+                  "Texture and mesh candidates excluded by filename heuristic",
+                  "NUL strings are not verified Unreal name table entries",
+                  "No spawn coordinates decoded",
+                  "Prior analyzers preserved"
+              ]
+}

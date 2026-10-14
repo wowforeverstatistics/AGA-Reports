@@ -1,0 +1,5 @@
+﻿"Priority","Filename","CandidatePath","Category","Selection","Reason"
+"95","AoCHarvestableBase.uasset","../../../AOC/Content/ENV/Gatherables/AoCHarvestableBase.uasset","Harvestable Blueprint","Selected","Exact requested dependency filename"
+"90","ResourceNodeTable.uasset","../../../AOC/Content/ENV/Gatherables/ResourceNodeTable.uasset","Resource table","Selected","Exact requested dependency filename"
+"85","ResourceNode.uasset","../../../AOC/Content/ENV/Gatherables/ResourceNode.uasset","Resource definition","Selected","Exact requested dependency filename"
+"80","ResourceNodeType.uasset","../../../AOC/Content/ENV/Gatherables/ResourceNodeType.uasset","Resource type","Selected","Exact requested dependency filename"

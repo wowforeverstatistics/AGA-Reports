@@ -1,0 +1,8 @@
+﻿"Check","Status","Detail"
+"Selection","Heuristic","Selected=4; excluded texture/material/mesh filename prefixes"
+"Directory","Observed","Inventory=2932 entries; selected=4; filename matches only"
+"BlockTable","Pass","Start=70538 Declared=32581 Shift=5868 End=461510"
+"Reconstruction","Observation","Complete=4 of 4; candidate payloads; no reference samples available"
+"Extraction","Observation","FilesWritten=4 ExplicitOptIn=True"
+"BlueprintSignals","Heuristic","NUL-terminated candidate names and keyword hits only; no Unreal Blueprint bytecode interpretation"
+"SpawnCoordinates","Unverified","No world coordinates parsed or verified"

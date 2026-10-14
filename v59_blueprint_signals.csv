@@ -1,0 +1,6 @@
+﻿"File","Offset","Token","Category","Evidence","VerifiedRelationship","VerifiedCoordinates"
+"AoCHarvestableBase.uasset","7339","H/Game/GameBlueprints/MapRegistrationComponentBP/Game/ENV/Gatherables/ResourceNodeTable/Game/ENV/Gatherables/ResourceNode/Game/UI/UMGMinimap/MinimapComponent/MinimapRessources/TUI_icon_resource","Keyword candidate","NUL-terminated string","False","False"
+"ResourceNodeTable.uasset","369","""/Game/ENV/Gatherables/ResourceNode","Keyword candidate","NUL-terminated string","False","False"
+"ResourceNode.uasset","625","&/Game/ENV/Gatherables/ResourceNodeType","Keyword candidate","NUL-terminated string","False","False"
+"ResourceNodeType.uasset","125","&NewEnumerator0ResourceNodeType::NewEnumerator0ResourceNodeType::ResourceNodeType_MAXResourceNodeType/Game/ENV/Gatherables/ResourceNodeType","Keyword candidate","NUL-terminated string","False","False"
+"ResourceNodeType.uasset","485","Iron","Keyword candidate","NUL-terminated string","False","False"
