@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v15.1",
+    "Mode":  "Read-only enum name-table boundary and property identifier investigation",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "FramedStringCandidates":  6,
+    "EnumNeighborRows":  21,
+    "PropertyMarkerRows":  19,
+    "NegativeControls":  4,
+    "Errors":  0,
+    "IronStringLocated":  true,
+    "EnumOrdinalVerified":  false,
+    "TypedPropertyValuesVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "String framing is not an enum record decoder",
+                  "No game files modified"
+              ]
+}

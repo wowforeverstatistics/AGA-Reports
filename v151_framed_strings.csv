@@ -1,0 +1,7 @@
+﻿"Asset","PrefixOffset","TextOffset","LengthIncludingNull","EndExclusive","Text","PrefixHex","TerminatorValid","IsIron","StringFrameVerified","EnumRecordVerified"
+"ResourceNodeType.uasset","444","448","33","481","435C8AA54066DDE7A10A588ED7456B92","21000000","True","False","True","False"
+"ResourceNodeType.uasset","481","485","5","490","Iron","05000000","True","True","True","False"
+"AoCHarvestableBase.uasset","8418","8422","14","8436","BPTYPE_Normal","0E000000","True","False","True","False"
+"AoCHarvestableBase.uasset","8990","8994","2","8996","?","02000000","True","False","True","False"
+"AoCHarvestableBase.uasset","11117","11121","2","11123","?","02000000","True","False","True","False"
+"AoCHarvestableBase.uasset","12408","12412","2","12414","Z","02000000","True","False","True","False"
