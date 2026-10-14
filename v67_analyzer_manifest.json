@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v6.7",
+    "Mode":  "Offline cross-asset package-reference validation diagnostics",
+    "Assets":  6,
+    "NameEntries":  27,
+    "CandidateRegions":  42,
+    "RecordPartitions":  46,
+    "CrossAssetPatternGroups":  28,
+    "EmbeddedPaths":  9,
+    "Errors":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Includes four independent gathering-related reference assets",
+                  "Record size divisibility and small integers are not import/export validation",
+                  "Only known embedded strings are reported as paths",
+                  "No raw integer flood; previous v6.6 analyzer remains available",
+                  "All inputs are read-only; no game installation required"
+              ]
+}
