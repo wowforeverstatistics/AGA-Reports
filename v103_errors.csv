@@ -1,4 +1,0 @@
-﻿"Stage","File","Message","ExceptionType","Line","Position","StackTrace"
-"v10.3","","v10.2 baseline exit code ","System.Management.Automation.RuntimeException","46","At C:\Users\meang\Downloads\AGA-IoStore-Chunk-ID-Offset-Validation-10.3\Analyze-IoStore-v10.3.ps1:46 char:26
-+ ... ($LASTEXITCODE -ne 0){throw ""v10.2 baseline exit code $LASTEXITCODE""}
-+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~","at <ScriptBlock>, C:\Users\meang\Downloads\AGA-IoStore-Chunk-ID-Offset-Validation-10.3\Analyze-IoStore-v10.3.ps1: line 46"
