@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v10.4",
+    "Mode":  "Read-only candidate compression block metadata and offset-exception investigation",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  91,
+    "BlockSamples":  5751,
+    "PriorChunkRangeExceptions":  126,
+    "CandidateBlockTablesFit":  91,
+    "Errors":  0,
+    "VerifiedCompressionBlockEncoding":  0,
+    "VerifiedPartitionMapping":  0,
+    "VerifiedPackageMappings":  0,
+    "VerifiedResourceProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs v10.3.1 hotfix and earlier",
+                  "Candidate 5+3+3+1 block layout; unverified",
+                  "Only bounded .utoc reads; no .ucas payload reads",
+                  "No decryption, decompression, extraction, or game file changes"
+              ]
+}

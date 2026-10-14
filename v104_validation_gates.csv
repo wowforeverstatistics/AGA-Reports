@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"BaselineV103Completed","True","True","v10.3 errors: 0","Execution only"
+"CandidateBlockTableBounds","True","False","91 / 91","Candidate table layout not independently verified"
+"SampledPhysicalBlockRangesWithinSingleUcas","False","False","0 / 91","Partition-aware mapping not established; this is a single-file negative control"
+"PriorBigEndianExceptionsCaptured","True","True","126 sampled exceptions","Reproduced from v10.3 report; not proof of offset encoding"
+"IndependentlyVerifiedCompressionBlockEncoding","False","False","Not established","Requires independent compatible parser and cross-check"
+"VerifiedPartitionAwarePayloadMapping","False","False","Not established","No partition file offsets or decompression decoded"
+"VerifiedPackageAndGatheringCoordinates","False","False","Not established","No asset extraction, package path or spawn coordinates"
