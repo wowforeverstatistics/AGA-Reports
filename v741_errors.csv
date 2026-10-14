@@ -1,0 +1,7 @@
+﻿"File","Message","ScriptLine","ScriptText"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64"".","65","foreach($v in $vals){"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64"".","65","foreach($v in $vals){"
+"ResourceNodeTable.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64"".","65","foreach($v in $vals){"
+"ResourceNodeType.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64"".","65","foreach($v in $vals){"
+"ResourceNode.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64"".","65","foreach($v in $vals){"
+"AoCHarvestableBase.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64"".","65","foreach($v in $vals){"
