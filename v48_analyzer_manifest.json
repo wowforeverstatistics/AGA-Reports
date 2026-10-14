@@ -1,0 +1,33 @@
+﻿{
+    "Tool":  "AGA v4.8",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "Mode":  "Offline read-only duplicate candidate metadata and experimental payload reconstruction",
+    "Status":  "Completed",
+    "PreviousAnalyzer":  "Skipped",
+    "UcasVerificationRequested":  true,
+    "UcasOpened":  true,
+    "ChunkCount":  2933,
+    "TailStart":  616694,
+    "TailBytes":  70392,
+    "CandidateRecords":  2933,
+    "UniqueCandidateDigest20":  2909,
+    "DuplicateCandidateDigestRecords":  24,
+    "DuplicateGroups":  15,
+    "DuplicateMembers":  39,
+    "FocusChunks":  4,
+    "PayloadTargets":  39,
+    "ReconstructedTargets":  29,
+    "AnyIndexReconstructionHashMatches":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Errors":  0,
+    "ElapsedSeconds":  1.38,
+    "Notes":  [
+                  "Tail boundary and 5868-byte extra region remain unverified",
+                  "20-byte field SHA-1 interpretation unverified",
+                  "Record index to chunk index ordering unverified",
+                  "UCAS logical-block mapping is experimental",
+                  "SHA1 matches or byte equality alone do not establish directory path ownership",
+                  "No game-file writes, no network access"
+              ]
+}
