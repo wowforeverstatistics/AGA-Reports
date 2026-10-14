@@ -1,0 +1,5 @@
+﻿"Check","Status","Detail"
+"BoundaryArithmetic","Pass","OriginalStart=64670 Shift=5868 ShiftedStart=70538 DeclaredCount=32581 DirectoryStart=461510"
+"PayloadOutput","Pass","No extracted asset files written; comparisons are in-memory only"
+"Ownership","Unverified","Directory mapping and digest provenance not independently validated"
+"SpawnCoordinates","Unverified","No spawn-coordinate parsing attempted"

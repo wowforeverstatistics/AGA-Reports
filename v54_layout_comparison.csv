@@ -1,0 +1,4 @@
+﻿"Hypothesis","Start","Records","FirstPhysicalOffset","LastPhysicalEnd","UcasBytes","InvalidSizes","NonzeroMethods","OutsideUcas","ZeroOffsets","ContiguousTransitions","GapTransitions","OverlapTransitions","DeclaredByHeader","Note"
+"OriginalDeclared","64670","32581","81604378761","2262040576","2296879456","483","122","435","17","29538","2808","234","True","Diagnostic; not proof of ownership"
+"ShiftedDeclared","70538","32581","0","2296879456","2296879456","0","0","0","1","30007","2573","0","True","Diagnostic; not proof of ownership"
+"OriginalExtended","64670","33070","81604378761","2296879456","2296879456","483","122","435","17","30009","2826","234","False","Diagnostic; not proof of ownership"

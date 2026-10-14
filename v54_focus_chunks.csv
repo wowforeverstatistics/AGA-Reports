@@ -1,0 +1,5 @@
+﻿"ChunkIndex","CandidateName","LogicalOffset","LogicalLength","FixedFirstIndex","FixedLastIndex","ReindexedCandidate","Ownership"
+"247","ResourceNodeTable.uasset","432078848","437","6593","6593","6104","Unverified"
+"1981","ResourceNodeType.uasset","431947776","531","6591","6591","6102","Unverified"
+"2212","ResourceNode.uasset","432013312","913","6592","6592","6103","Unverified"
+"2637","UnmappedChunk2637","2135031808","153952","32578","32580","32089","Unverified"

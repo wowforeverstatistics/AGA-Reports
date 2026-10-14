@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v5.4",
+    "Status":  "Completed",
+    "Mode":  "Read-only shifted block-table validation and in-memory focus comparisons",
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "ShiftRecords":  489,
+    "UcasChecked":  true,
+    "UcasBytes":  2296879456,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  18.79,
+    "Notes":  [
+                  "Shifted table is a hypothesis, not a changed game header",
+                  "Only method 0 equal-size blocks are eligible for byte comparison",
+                  "No game files modified; no extracted payload files written",
+                  "Previous analyzers retained"
+              ]
+}
