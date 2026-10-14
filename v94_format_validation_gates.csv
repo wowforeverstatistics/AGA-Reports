@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"KnownPackageMagic","False","False","Conventional UE package tag check","Absence does not identify an alternative format"
+"IndependentContainerProvenance","False","False","Not supplied","Requires documented IoStore extraction path and source chunk identity"
+"ValidatedNameMapFormat","False","False","String framing heuristics only","Requires version-aware decoder and independent agreement"
+"ValidatedFNameIndices","False","False","Not established","Do not assign indices based on string occurrence order"
+"VerifiedPropertyValues","False","False","Not established","No property values inferred"
+"VerifiedSpawnCoordinates","False","False","Not established","No placement records verified"

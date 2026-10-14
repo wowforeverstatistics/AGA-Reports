@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v9.4",
+    "Mode":  "Read-only asset format and name string framing investigation",
+    "Assets":  2,
+    "StringFramingTests":  39,
+    "CompanionChecks":  12,
+    "Gates":  6,
+    "Errors":  0,
+    "VerifiedContainerFormats":  0,
+    "VerifiedNameMaps":  0,
+    "VerifiedFNameIndices":  0,
+    "VerifiedProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs cumulative v9.3, v9.2, v9.1, v9.0, v8.9, v8.8",
+                  "No container format inferred from missing conventional package magic",
+                  "Name string framing does not establish FName indices",
+                  "Companion file absence is limited to supplied folders",
+                  "No game assets modified"
+              ]
+}
