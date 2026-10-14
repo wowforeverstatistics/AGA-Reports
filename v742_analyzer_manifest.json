@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v7.4.2",
+    "Mode":  "IoStore candidate header offset and section boundary validation",
+    "Assets":  6,
+    "OffsetBaseTests":  288,
+    "AdjacentOffsetGaps":  31,
+    "BaseComparisons":  18,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSectionLayouts":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Compares absolute, 64-byte-relative, and candidate-name-start-relative interpretations",
+                  "No header schema assumed",
+                  "Positive and increasing values alone do not validate pointers",
+                  "Includes unrelated Rogue texture negative control",
+                  "Read-only local analysis"
+              ]
+}
