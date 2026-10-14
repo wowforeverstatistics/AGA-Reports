@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v9.1",
+    "Mode":  "Read-only Blueprint property region hypotheses",
+    "CandidateProbes":  14,
+    "AlignmentProbes":  126,
+    "CounterexampleContexts":  1,
+    "RoleHypotheses":  14,
+    "Errors":  0,
+    "VerifiedProperties":  0,
+    "VerifiedBlueprintGraphFields":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs v9.0 hotfix and its v8.9/v8.8 baseline",
+                  "Requires v9.0 SHA256 identity with bundled source assets",
+                  "Tests candidate+16 and neighboring shifts as heuristics",
+                  "No independent Unreal parser validation or verified record boundaries",
+                  "No spawn coordinates inferred"
+              ]
+}
