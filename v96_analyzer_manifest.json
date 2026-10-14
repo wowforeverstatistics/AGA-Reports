@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v9.6",
+    "Mode":  "Read-only header-length and printable-run boundary falsification",
+    "Assets":  2,
+    "HeaderLengthTests":  2,
+    "HeaderLengthMinusOneMatches":  2,
+    "PrintableRunBoundaries":  37,
+    "HeaderNeighborComparisons":  22,
+    "Gates":  7,
+    "Errors":  0,
+    "VerifiedNameMaps":  0,
+    "VerifiedHeaderLengthFields":  0,
+    "VerifiedNameEntryBoundaries":  0,
+    "VerifiedProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Cumulative execution of v9.5.1 and earlier",
+                  "Matches are unverified numeric relationships",
+                  "Source hashes checked against v9.4 inventory",
+                  "Read-only; no game files modified"
+              ]
+}

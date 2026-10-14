@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"BaselineV951Completed","True","True","Baseline errors: 0","Verifies successful analyzer execution, not binary format"
+"AllTestedAssetsMatchLengthMinusOne","True","False","2 / 2 assets","Empirical relationship only; no format semantics established"
+"IndependentAssetDiversity","False","False","2 distinct asset records","Additional independent assets required to test generality"
+"ValidatedNameEntryFraming","False","False","Not established","No validated serialized string entry boundaries"
+"ValidatedHeaderFieldSemantics","False","False","Not established","Need format documentation or independent decoder"
+"IndependentIoStoreProvenance","False","False","Not supplied","Need chunk IDs, extraction method, and package mapping"
+"VerifiedPropertiesAndSpawnCoordinates","False","False","Not established","No decoded property or world placement evidence"
