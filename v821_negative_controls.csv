@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","CandidateNamePairs","TargetedPropertyWindows","RepeatedSignatures","ExactStringContexts","VerifiedGatheringProperties","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","0","0","0","1","False","Generic negative-control comparison; candidate counts do not prove semantics"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","3","0","0","1","False","Generic negative-control comparison; candidate counts do not prove semantics"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","0","0","0","0","False","Generic negative-control comparison; candidate counts do not prove semantics"
+"ResourceNodeType.uasset","ResourceNodeType","False","0","0","0","0","False","Generic negative-control comparison; candidate counts do not prove semantics"
+"ResourceNode.uasset","ResourceNode","False","4","3","0","0","False","Generic negative-control comparison; candidate counts do not prove semantics"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","82","10","19","2","False","Generic negative-control comparison; candidate counts do not prove semantics"

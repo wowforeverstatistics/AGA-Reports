@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v8.2.1.1",
+    "Mode":  "Property boundary and name reference validation hypotheses",
+    "Assets":  6,
+    "CandidateNamePairs":  89,
+    "TargetedPropertyWindows":  13,
+    "RepeatedRecordPatterns":  19,
+    "ExactStringContexts":  4,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Read-only candidate name-pair and nearby byte tests",
+                  "QuantityMin, QuantityMax, AcceptableTools and MapRegistration candidate windows",
+                  "String prefix and Blueprint repeated record comparisons",
+                  "No speculative property or spawn-coordinate claims",
+                  "Windows PowerShell 5.1 execution not independently tested by packager"
+              ]
+}
