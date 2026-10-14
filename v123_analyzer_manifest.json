@@ -1,5 +1,7 @@
 ﻿{
-    "Tool":  "AGA v12.3",
+    "Tool":  "AGA v12.3.1",
+    "PrerequisiteStatus":  "ReranV122",
+    "PrerequisiteDetails":  "Reran v12.2: Errors=1; DirectReadsSucceeded=0",
     "Mode":  "Read-only boundary-aware environmental asset discovery",
     "InputType01Candidates":  0,
     "EligibleCandidates":  0,
