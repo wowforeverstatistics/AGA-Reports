@@ -1,0 +1,30 @@
+﻿{
+    "Tool":  "AGA v8.6",
+    "Mode":  "Read-only descriptor layout, size and offset hypothesis cross-validation",
+    "Assets":  6,
+    "TypedDescriptorCandidates":  14,
+    "BoundaryTests":  14,
+    "MetadataConsistencyGroups":  5,
+    "SizeHypotheses":  14,
+    "LayoutTests":  14,
+    "OffsetInterpretations":  14,
+    "OutlierContexts":  1,
+    "TypeConsistencyGroups":  5,
+    "Anomalies":  1,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests expected type sizes and candidate header/value bounds without treating matches as verification",
+                  "Compares raw fourth word as pair-relative, record-relative, file-absolute, and packed halves without choosing semantics",
+                  "Preserves anomalous BoolProperty/None context and other outliers",
+                  "Texture negative control retained; optional external unrelated Blueprint supported",
+                  "No Unreal property schema or gathering coordinates verified",
+                  "Windows PowerShell 5.1 runtime not independently tested by packager"
+              ]
+}
