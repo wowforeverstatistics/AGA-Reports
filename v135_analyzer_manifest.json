@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v13.5",
+    "Mode":  "Bounded local FString-like length, property-token and path consistency screening",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "StringCandidateRows":  11,
+    "LengthPrefixedStringCandidates":  3,
+    "PropertyTokenContextRows":  30,
+    "TextualPathObservations":  10,
+    "Errors":  0,
+    "DecodedNameMaps":  0,
+    "VerifiedTypedPropertyValues":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedHarvestableAssets":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Uses local cached files or downloads eight public GitHub assets",
+                  "No game files modified",
+                  "A length-prefixed string observation is not a decoded UE package name map",
+                  "No property values inferred from nearby integers"
+              ]
+}

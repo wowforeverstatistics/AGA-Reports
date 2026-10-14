@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"AllEightAssetsLoaded","True","8 / 8 assets loaded"
+"LengthPrefixedStringScreen","True","Local FString-like length matches; not name-map verification"
+"SerializedNameMap","False","No package header/name-map schema parsed"
+"TypedNodeValues","False","No validated property serialization/value binding"
+"SerializedDependencies","False","Textual paths only"
+"GatheringCoordinates","False","No actor placement transforms decoded"
