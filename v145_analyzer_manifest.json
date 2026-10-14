@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v14.5",
+    "Mode":  "Read-only foliage tail numeric and field-boundary falsification",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "NumericInterpretations":  13,
+    "OpaqueRegions":  1,
+    "SuffixWordRows":  13,
+    "NegativeControlPairs":  4,
+    "Errors":  0,
+    "TypedFoliageFieldsVerified":  false,
+    "GUIDFieldVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "No numeric or GUID type promoted without independent structural evidence",
+                  "All byte windows bounded",
+                  "No game files modified"
+              ]
+}

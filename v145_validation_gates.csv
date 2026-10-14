@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"AllEightAssetsLoaded","True","Asset inventory"
+"NumericRegionScreened","True","Offsets 40..52, all 4-byte windows"
+"OpaqueRegionScreened","True","Offsets 27..42"
+"Suffix49Segmented","True","Twelve 4-byte words and one remainder"
+"TypedFoliageFieldsVerified","False","Numeric reinterpretation alone is insufficient"
+"GUIDFieldVerified","False","No serialized GUID schema established"
+"GatheringCoordinatesVerified","False","No world spatial schema established"
