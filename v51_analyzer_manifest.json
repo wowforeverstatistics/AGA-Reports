@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v5.1.2",
+    "Status":  "Completed",
+    "Mode":  "Read-only IoStore boundary and alignment investigation",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "UcasChecked":  true,
+    "UcasBytes":  2296879456,
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "DeclaredBlockTableStart":  64670,
+    "DeclaredBlockTableEnd":  455642,
+    "ExaminedExtraBytes":  5868,
+    "CandidateExtraRecords":  489,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  0.53,
+    "Notes":  [
+                  "Extension and two-byte hypotheses are exploratory",
+                  "Declared header block count is not modified",
+                  "No game writes, network access, or asset extraction",
+                  "PowerShell 5.1 compatible intended; validate on Windows"
+              ]
+}

@@ -1,0 +1,4 @@
+﻿"Check","Status","Detail"
+"DeclaredBounds","Pass","Header=144; Chunks=2933; Blocks=32581; BlockTableStart=64670; DeclaredEnd=455642; UTOCBytes=687086"
+"ExtensionCandidate","Observation","Bytes=5868; Width12Records=489; MethodZero=489; PlausibleSizes=489; InUcas=489; Nondecreasing=489; Exact65536Step=456; NotProofOfBlockExtension"
+"Ownership","Unverified","No chunk ownership, SHA1 provenance, or spawn coordinate verification performed"
