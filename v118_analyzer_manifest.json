@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v11.8",
+    "Mode":  "Read-only short-preview diagnostics, marker inventory and engine reference audit",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "InputChunkSamples":  5497,
+    "MissingPrefixRecords":  16,
+    "MarkerCandidates":  1,
+    "TypeHeaderProfiles":  9,
+    "ExternalReferenceEntries":  0,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "PackageHeaderParserExecuted":  false,
+    "VerifiedPackageMappings":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs v11.7 and all earlier analyzers",
+                  "Short chunks are hypotheses for missing preview bytes, not verified causes",
+                  "BKHD marker is not a verified Unreal package header",
+                  "No independent source parser, payload extraction, decryption or modifications"
+              ]
+}
