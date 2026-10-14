@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v12.2",
+    "Mode":  "Read-only bounded ASCII string and numeric structure screening",
+    "TargetsSelected":  48,
+    "DirectReadsSucceeded":  48,
+    "PrintableStrings":  59,
+    "GatheringKeywordHits":  18,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "PackageHeaderParserExecuted":  false,
+    "VerifiedPackageNames":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs v12.1 and earlier cumulatively",
+                  "ASCII byte offsets refer to bounded physical payload reads",
+                  "Keyword hits are not verified gathering assets",
+                  "Reads method-0 eligible blocks only, max 4096 bytes per target",
+                  "No decryption, decompression, extraction, or game modifications"
+              ]
+}

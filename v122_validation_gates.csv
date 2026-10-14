@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Verified","Evidence"
+"V121Baseline","True","True","v12.1 manifest zero errors"
+"BoundedReads","True","True","48 of 48 direct reads succeeded"
+"AssetStringInventory","True","True","59 ASCII runs with byte offsets"
+"PackageNamesVerified","False","False","String extraction is not a package name parser"
+"GatheringCoordinatesVerified","False","False","No world transform or resource actor parser"
