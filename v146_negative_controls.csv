@@ -1,0 +1,5 @@
+﻿"AssetA","AssetB","TailLengthA","TailLengthB","SuffixBytesCompared","SuffixMatchingBytes","IdenticalSuffixRun","NineByteRegionIdentical","Opaque16MatchingBytes","SharedSchemaVerified"
+"FT_Gatherables_Sandstone_Large_1.uasset","FT_Gatherables_Sandstone_Medium_2.uasset","190","190","49","49","49","True","0","False"
+"ResourceNode.uasset","ResourceNodeTable.uasset","245","29","29","24","18","False","-1","False"
+"ResourceNode.uasset","ResourceNodeType.uasset","245","115","49","32","0","False","3","False"
+"SM_Gatherables_Sandstone_Large_03.uasset","SM_Gatherables_Sandstone_Med_01.uasset","153009","133798","49","46","17","False","7","False"

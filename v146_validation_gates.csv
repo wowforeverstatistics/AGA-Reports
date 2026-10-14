@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"AllEightAssetsLoaded","True","Asset inventory"
+"BothFileAlignmentsCalculated","True","Absolute offsets computed independently"
+"Opaque16Tested","True","Exact byte comparison"
+"Suffix49Tested","True","12 words and one byte"
+"TypedNumericFieldVerified","False","No verified serialized field boundaries"
+"IdentifierSchemaVerified","False","No verified identifier schema"
+"GatheringCoordinatesVerified","False","No spatial serialization schema"

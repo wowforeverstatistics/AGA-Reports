@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v14.6",
+    "Mode":  "Read-only numeric boundary and per-file alignment correction",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "NumericRows":  13,
+    "OpaqueRows":  1,
+    "SuffixRows":  13,
+    "NegativeControlPairs":  4,
+    "Errors":  0,
+    "TypedNumericFieldsVerified":  false,
+    "IdentifierSchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Alignment calculated independently for each original asset",
+                  "No field types inferred from plausible floats or integers",
+                  "Read-only"
+              ]
+}
