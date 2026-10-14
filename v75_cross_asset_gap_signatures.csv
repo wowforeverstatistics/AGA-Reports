@@ -1,0 +1,7 @@
+﻿"File","Role","Gap24to28","Gap28to32","Gap32to36","Gap36to40","Gap40to44","Gap44to48","NameStart","NameEnd","VerifiedSchema"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","0","64","144","32","40","4","124","271","False"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","0","24","72","16","20","0","108","228","False"
+"ResourceNodeTable.uasset","ResourceNodeTable","8","40","72","16","20","4","100","166","False"
+"ResourceNodeType.uasset","ResourceNodeType","0","24","72","16","20","0","116","264","False"
+"ResourceNode.uasset","ResourceNode","8","40","72","16","20","4","148","420","False"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","40","568","1944","432","540","360","964","3379","False"

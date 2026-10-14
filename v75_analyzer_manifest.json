@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v7.5",
+    "Mode":  "Header field matrix and candidate section byte characteristics",
+    "Assets":  6,
+    "HeaderFields":  96,
+    "SectionSamples":  36,
+    "HypothesisTests":  24,
+    "CrossAssetRows":  6,
+    "Errors":  0,
+    "VerifiedPackageHeaders":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "No known UE schema assumed",
+                  "Section byte content sampled, not decoded",
+                  "Unrelated texture negative control included",
+                  "Inputs read-only"
+              ]
+}
