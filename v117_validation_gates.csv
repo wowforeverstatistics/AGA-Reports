@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence"
+"V116BaselineCompleted","True","True","v11.6 manifest has positive samples and zero errors"
+"AllSampleIdentifiersValidated","True","True","5497 chunk IDs screened"
+"HeaderPrefixClassificationCompleted","True","True","9 type/header class combinations"
+"ExternalReferenceSupplied","False","False","Optional user-provided CSV is not independent verification"
+"EngineTypeDefinitionsIndependentlyVerified","False","False","No engine source or independent parser executed"
+"IoStorePackageHeadersParsed","False","False","Prefix-only screening is not package parsing"
+"GatheringAssetsOrCoordinatesVerified","False","False","No decoded package paths, assets or coordinates"

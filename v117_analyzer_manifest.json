@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v11.7",
+    "Mode":  "Read-only reference-input gap tracking and chunk prefix header screening",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "InputChunkSamples":  5497,
+    "HeaderScreenRows":  5497,
+    "TypeHeaderProfileRows":  9,
+    "ExternalReferenceEntries":  0,
+    "ReferenceEntriesMatchingObservedTypes":  0,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "PackageHeaderParserExecuted":  false,
+    "VerifiedPackageMappings":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs cumulative v11.6 and earlier",
+                  "Optional EngineChunkTypeReference.csv is user supplied and unverified",
+                  "Screens only previously captured chunk-start prefixes; no full package parsing",
+                  "Read-only; no decryption, decompression, extraction or game modifications"
+              ]
+}
