@@ -1,0 +1,7 @@
+﻿"File","Role","PostNameScanStart","PostNameScanEnd","AlignedSlots","SmallNameIndexSlots","IndexThenZeroSlots","IndexZeroFFFFFFFFSlots","RecordStructureValidated","Notes"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","271","681","48","48","28","3","False","Candidate motif counts, includes index zero; not a decoded package format"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","228","4324","984","984","967","1","False","Candidate motif counts, includes index zero; not a decoded package format"
+"ResourceNodeTable.uasset","ResourceNodeTable","166","425","25","25","13","1","False","Candidate motif counts, includes index zero; not a decoded package format"
+"ResourceNodeType.uasset","ResourceNodeType","264","519","28","28","18","1","False","Candidate motif counts, includes index zero; not a decoded package format"
+"ResourceNode.uasset","ResourceNode","420","901","55","55","26","1","False","Candidate motif counts, includes index zero; not a decoded package format"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","3379","7475","571","571","177","3","False","Candidate motif counts, includes index zero; not a decoded package format"

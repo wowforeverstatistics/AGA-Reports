@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v7.0",
+    "Mode":  "Targeted resource property structure and negative-control diagnostics",
+    "Assets":  6,
+    "TargetedWindows":  26,
+    "FieldIndexContexts":  67,
+    "MotifTests":  6,
+    "NegativeControlRows":  6,
+    "Errors":  0,
+    "VerifiedProperties":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Specific ResourceNode region 760-880 examined",
+                  "Includes AoCHarvestableBase and unrelated texture control",
+                  "Aligned integer matches are not certified FName references",
+                  "Motifs are candidate binary patterns only",
+                  "No property value or world coordinate inference"
+              ]
+}
