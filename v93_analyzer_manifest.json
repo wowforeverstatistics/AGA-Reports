@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v9.3",
+    "Mode":  "Read-only heuristic Unreal name table and FName investigation",
+    "Assets":  2,
+    "SequentialNameCandidates":  0,
+    "FNameReferenceTests":  28,
+    "Gates":  5,
+    "Errors":  0,
+    "VerifiedNameTables":  0,
+    "VerifiedFNameReferences":  0,
+    "VerifiedProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs cumulative v9.2 baseline",
+                  "Searches header for plausible count/offset pairs",
+                  "Attempts bounded ASCII FString-like sequential name runs",
+                  "Tests aligned nearby candidate index references",
+                  "No verified Unreal package layout or independent parser comparison",
+                  "No game assets modified"
+              ]
+}

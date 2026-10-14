@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"PackageSummaryValidation","False","False","Header count/offset candidates only","Requires independent version-aware UE package parser"
+"NameTableIndices","False","False","Sequential FString-like entries only","Unreal name map format must be independently confirmed"
+"FNameReferenceMapping","False","False","Nearby aligned index-word search","No record boundaries or FName numbers independently confirmed"
+"PropertyValueRoundTrip","False","False","Not performed","Do not infer resource quantities or tools"
+"SpawnCoordinateProvenance","False","False","Not available","No verified world placement records"
