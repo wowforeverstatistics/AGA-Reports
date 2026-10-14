@@ -1,0 +1,26 @@
+﻿{
+    "Tool":  "AGA v8.5",
+    "Mode":  "Read-only property metadata and descriptor consistency validation",
+    "Assets":  6,
+    "TypedDescriptorCandidates":  14,
+    "BoundaryTests":  14,
+    "MetadataConsistencyGroups":  5,
+    "SizeHypotheses":  14,
+    "Anomalies":  1,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests expected type sizes against candidate third metadata word without treating a match as verification",
+                  "Compares 0x00200001 and fourth metadata word without asserting field semantics",
+                  "Flags inconsistent metadata candidates including BoolProperty/None",
+                  "Texture negative control retained; optional external unrelated Blueprint supported",
+                  "No Unreal property schema or gathering coordinates verified",
+                  "Windows PowerShell 5.1 runtime not independently tested by packager"
+              ]
+}
