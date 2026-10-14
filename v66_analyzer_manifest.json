@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v6.6",
+    "Mode":  "Offline name-index reference and unknown import/export region investigation",
+    "Assets":  2,
+    "Names":  10,
+    "RawNameIndexMatches":  297,
+    "Regions":  13,
+    "Errors":  0,
+    "ValidatedImports":  0,
+    "ValidatedExports":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Uses the v6.5 packed-name reconstruction validated on two distinct sample payloads",
+                  "Aligned integer matches are NOT proven FName or object references",
+                  "Raw regions are NOT claimed to be import/export tables",
+                  "No Blueprint bytecode execution or world-coordinate inference",
+                  "Input game files are never modified"
+              ]
+}
