@@ -1,0 +1,5 @@
+﻿"Check","Status","Detail"
+"BlockTableSummary","Observation","Blocks=32581; ShortUncompressed=3266; ZeroSize=373; OutOfUcas=435; TotalUncompressed=4011631716; FixedCapacity=2135228416"
+"PhysicalRanges","Observation","Gaps=2666; GapBytes=1095835355784; Overlaps=31; OverlapBytes=486515927; EndOfLastRange=1099528404507; UcasBytes=2296879456"
+"CompressionMethods","Observation","0:32459;255:122"
+"MappingCaution","Observation","Both mappings are hypotheses; equality and hash matches are evidence, not proof of path ownership"

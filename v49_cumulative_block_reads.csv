@@ -1,0 +1,4 @@
+﻿"ChunkIndex","Mapping","BlockIndex","LogicalStart","LogicalEnd","PhysicalOffset","CompressedBytes","UncompressedBytes","Method","ReadStart","ReadBytes"
+"2637","CumulativeUncompressed","2526","2135027045","2135092581","109117440","65536","65536","0","109122203","60773"
+"2637","CumulativeUncompressed","2527","2135092581","2135158117","109182976","65536","65536","0","109182976","65536"
+"2637","CumulativeUncompressed","2528","2135158117","2135223653","109248512","65536","65536","0","109248512","27643"
