@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v10.3",
+    "Mode":  "Read-only sampled IoStore chunk ID and packed offset-length hypothesis testing",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  0,
+    "ChunkSamples":  0,
+    "SamplePerContainer":  64,
+    "CandidateTablesFit":  0,
+    "AllSampledBigEndianRangesFit":  0,
+    "AllSampledLittleEndianRangesFit":  0,
+    "Errors":  1,
+    "VerifiedChunkIds":  0,
+    "VerifiedOffsetEncodings":  0,
+    "VerifiedPackageMappings":  0,
+    "VerifiedResourceProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs v10.2 and earlier",
+                  "Bounded TOC reads only; no .ucas payload read",
+                  "40-bit big/little-endian values are hypotheses",
+                  "Chunk types and multi-partition mapping are not independently verified",
+                  "No game files modified"
+              ]
+}
