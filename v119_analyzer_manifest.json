@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v11.9",
+    "Mode":  "Read-only direct bounded physical payload verification",
+    "InputChunkSamples":  5497,
+    "ShortChunkTargets":  16,
+    "ShortChunkDirectReadSuccesses":  16,
+    "BKHDTargets":  1,
+    "BKHDDirectReadMatches":  1,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "PackageHeaderParserExecuted":  false,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Only raw method-0 blocks previously marked eligible by v11.0 are reread",
+                  "At most 64 bytes per target; no full extraction or decryption",
+                  "A missing preview is not automatically an unreadable payload",
+                  "BKHD alone does not verify an audio bank or Unreal package"
+              ]
+}

@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Verified","Evidence"
+"V118BaselineCompleted","True","True","v11.8 manifest has positive samples and zero errors"
+"ShortChunkPayloadsRead","True","True","16 of 16 direct reads succeeded"
+"BKHDMarkerReread","True","True","1 of 1 marker reads matched BKHD"
+"EngineTypeDefinitionsIndependentlyVerified","False","False","No independently inspected engine reference bundled"
+"PackageOrGatheringIdentityVerified","False","False","Bounded payload reads cannot establish asset identities or world coordinates"
