@@ -1,0 +1,6 @@
+﻿"TypeName","Candidates","ExpectedSizeKnown","ExpectedSizeMatches","PrefixMatches","ObservedSizeWords","VerifiedSizeField","Note"
+"IntProperty","3","3","3","3","4","False","Expected size agreement alone does not identify a UE serialized field"
+"ObjectProperty","3","3","3","3","8","False","Expected size agreement alone does not identify a UE serialized field"
+"StructProperty","2","0","0","2","16;64","False","Expected size agreement alone does not identify a UE serialized field"
+"BoolProperty","4","4","3","3","0;1","False","Expected size agreement alone does not identify a UE serialized field"
+"FloatProperty","2","2","2","2","4","False","Expected size agreement alone does not identify a UE serialized field"

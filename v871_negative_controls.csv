@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","AdjacentNamePairs","TypedPairs","TargetedPairs","VerifiedGatheringContent","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","0","0","0","False","Negative control counts; zero semantics proven"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","0","0","0","False","Negative control counts; zero semantics proven"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","0","0","0","False","Negative control counts; zero semantics proven"
+"ResourceNodeType.uasset","ResourceNodeType","False","0","0","0","False","Negative control counts; zero semantics proven"
+"ResourceNode.uasset","ResourceNode","False","1","1","1","False","Negative control counts; zero semantics proven"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","15","13","3","False","Negative control counts; zero semantics proven"

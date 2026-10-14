@@ -1,0 +1,7 @@
+﻿"Gate","Passed","RequiredForVerification","Verified","Reason"
+"Candidate pair containment","True","True","False","Containment is necessary but insufficient"
+"Expected primitive size consistency","False","True","False","Check every known-size candidate, including outliers"
+"Unrelated texture control","True","True","False","One texture control cannot substitute for unrelated Blueprint controls"
+"Independent Unreal schema validation","False","True","False","No independent parser or engine-grounded layout yet"
+"Known-value round trip","False","True","False","No controlled known-property value sample or round-trip test"
+"Gathering spawn coordinate proof","False","True","False","No coordinate-bearing property identified"

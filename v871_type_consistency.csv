@@ -1,0 +1,6 @@
+﻿"TypeName","Candidates","ConsistentCandidates","KnownExpectedSize","MatchingExpectedSize","Outliers","VerifiedLayout","Note"
+"IntProperty","3","3","3","3","0","False","Cross-candidate consistency is not proof of serialization schema"
+"ObjectProperty","3","3","3","3","0","False","Cross-candidate consistency is not proof of serialization schema"
+"StructProperty","2","2","0","0","0","False","Cross-candidate consistency is not proof of serialization schema"
+"BoolProperty","4","3","4","3","1","False","Cross-candidate consistency is not proof of serialization schema"
+"FloatProperty","2","2","2","2","0","False","Cross-candidate consistency is not proof of serialization schema"

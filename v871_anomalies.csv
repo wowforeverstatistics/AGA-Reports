@@ -1,0 +1,2 @@
+﻿"File","Offset","TypeName","FieldName","UnexpectedAfter0","UnexpectedAfter1","ExpectedSize","ObservedAfter2","SizeMismatch","Note"
+"AoCHarvestableBase.uasset","9024","BoolProperty","None","True","True","1","0","True","Candidate outlier; may be false positive or alternative format"
