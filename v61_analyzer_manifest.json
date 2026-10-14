@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v6.1",
+    "Mode":  "Read-only multi-container dependency directory scan",
+    "ContainersDiscovered":  91,
+    "ContainersScanned":  91,
+    "ContainersParsed":  84,
+    "Matches":  324,
+    "ExactDependencyHits":  5,
+    "ExtractCandidates":  true,
+    "ExtractedCandidates":  4,
+    "Errors":  8,
+    "VerifiedOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  57.26,
+    "Notes":  [
+                  "Directory string decoding permits up to 8 MiB beyond header-declared directory region, as tested in earlier validators",
+                  "Unsupported/encrypted/different-layout containers are reported and excluded from negative claims",
+                  "Directory filename-to-UserData mapping is only a candidate association",
+                  "Extraction requires opt-in and supports uncompressed blocks only",
+                  "Only the user-supplied Paks directory is scanned recursively",
+                  "Game files are opened read-only"
+              ]
+}
