@@ -1,0 +1,6 @@
+﻿"TypeName","Candidates","KnownPrimitiveSizes","SizeMatches","Counterexamples","AllKnownMatch","VerifiedSchema"
+"IntProperty","3","3","3","0","True","False"
+"ObjectProperty","3","3","3","0","True","False"
+"StructProperty","2","0","0","0","False","False"
+"BoolProperty","4","4","3","1","False","False"
+"FloatProperty","2","2","2","0","True","False"

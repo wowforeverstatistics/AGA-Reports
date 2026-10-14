@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v8.9",
+    "Mode":  "Read-only descriptor falsification extending v8.8 analyzer",
+    "Assets":  6,
+    "CandidateTests":  14,
+    "TypeGroups":  5,
+    "Counterexamples":  1,
+    "Gates":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Preserves the complete v8.8 source archive and executes v8.8 as the baseline",
+                  "v8.8 reports are regenerated for the same input set before v8.9 tests",
+                  "No Unreal schema or spawn coordinates verified",
+                  "Windows PowerShell 5.1 runtime requires user test"
+              ]
+}

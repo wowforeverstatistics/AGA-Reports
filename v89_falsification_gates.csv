@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Verified","Reason"
+"All known primitive sizes match","False","False","Counterexamples falsify a universal simple layout"
+"Unrelated texture has zero typed pairs","True","False","Texture control alone is insufficient"
+"External Blueprint sample supplied","False","False","External samples require independent provenance checks"
+"Independent engine parser agreement","False","False","Not implemented"
+"Known-value round trip","False","False","No verified values supplied"
+"Complete descriptor boundary verification","False","False","Record containment is not property boundary verification"
