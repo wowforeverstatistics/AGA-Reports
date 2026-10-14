@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v9.9",
+    "Mode":  "Read-only candidate segmentation and header count falsification",
+    "Assets":  2,
+    "SegmentationMethods":  3,
+    "CandidateSegments":  423,
+    "SegmentationCountTests":  6,
+    "Gates":  8,
+    "Errors":  0,
+    "VerifiedNameMaps":  0,
+    "VerifiedNameEntryBoundaries":  0,
+    "VerifiedHeaderCountFields":  0,
+    "VerifiedProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Cumulative v9.8 baseline and earlier",
+                  "Three text heuristics, not a binary format decoder",
+                  "Read-only; hashes checked against v9.4 inventory"
+              ]
+}
