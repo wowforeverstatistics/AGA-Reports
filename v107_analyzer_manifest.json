@@ -1,0 +1,27 @@
+﻿{
+    "Tool":  "AGA v10.7",
+    "Mode":  "Read-only reference-derived IoStore TOC layout cross-validation",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  91,
+    "BlockSamples":  5751,
+    "ChunkSamples":  5497,
+    "Errors":  0,
+    "ReferenceParserExecuted":  false,
+    "VerifiedPartitionMapping":  0,
+    "VerifiedPackageMappings":  0,
+    "VerifiedResourceProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ReferenceUrls":  [
+                          "https://github.com/gitMenv/UEcastoc/blob/master/utoc.go",
+                          "https://github.com/donovanj44/io-store-docs/blob/main/TOC%20data%20structure.md",
+                          "https://github.com/FabianFG/CUE4Parse/blob/master/CUE4Parse/UE4/IO/IoStoreReader.cs"
+                      ],
+    "Notes":  [
+                  "Runs v10.6 cumulative baseline",
+                  "Adds perfect hash seeds and overflow indices before compression table",
+                  "Header seed count offset 84, partition size bytes 88..95, overflow count offset 96",
+                  "Reference-derived structure implemented independently, no external parser binary executed",
+                  "Single UCAS range checks do not prove physical mappings",
+                  "No UCAS payload read, decryption, decompression, extraction or modifications"
+              ]
+}

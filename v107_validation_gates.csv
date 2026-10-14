@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"BaselineV106Completed","True","True","v10.6 errors: 0","Execution only"
+"ReferenceDerivedHeaderLayoutApplied","True","True","91 / 91","Cross-checked with public IoStore source descriptions, not runtime reference parser"
+"ReferenceSectionsFitToc","True","False","91 / 91","Section bounds alone do not verify semantics"
+"AllSampledBlocksPassConstraints","True","False","91 / 91","Single UCAS physical bounds may omit partitioning"
+"AllSampledChunksWithinBlockTable","True","False","91 / 91","Logical block indices, not verified payload mappings"
+"IndependentReferenceParserExecuted","False","False","Not executed","No external parser binary used"
+"GatheringAssetsAndCoordinatesVerified","False","False","Not established","No asset payload extracted"
