@@ -1,0 +1,6 @@
+﻿"Check","Status","Detail"
+"BundledSamples","Pass","3 reference assets inspected"
+"DirectoryInventory","Observed","2932 candidate paths; source=Bundled v4.4 regenerated directory inventory"
+"ReferenceLinks","Heuristic","8 candidate links; none prove payload ownership"
+"SpawnCoordinates","Unverified","No coordinate decoding or placement verification performed"
+"GameFiles","ReadOnly","Only bundled analyzers read game files; all output is under tool Reports"

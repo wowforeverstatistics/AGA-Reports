@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v5.6",
+    "Status":  "Completed",
+    "Mode":  "Read-only gathering directory reference discovery",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "SamplesInspected":  3,
+    "DirectoryPaths":  2932,
+    "DirectorySource":  "Bundled v4.4 regenerated directory inventory",
+    "ScoredCandidates":  1019,
+    "CandidateLinks":  8,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  5.93,
+    "Notes":  [
+                  "Directory/path and embedded-string associations are heuristic",
+                  "No extracted payloads or spawn coordinates asserted",
+                  "Earlier analyzers preserved"
+              ]
+}
