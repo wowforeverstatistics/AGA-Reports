@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v15.0",
+    "Mode":  "Read-only enum record reconstruction and property identifier falsification",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "EnumStringCandidates":  2,
+    "EnumNeighborRows":  26,
+    "PropertyIdentifierRuns":  14,
+    "NegativeControls":  4,
+    "Errors":  0,
+    "EnumOrdinalVerified":  false,
+    "TypedPropertyValuesVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Length-prefixed ASCII alone does not verify an enum record",
+                  "All interpretations are bounded and provisional",
+                  "No game files modified"
+              ]
+}

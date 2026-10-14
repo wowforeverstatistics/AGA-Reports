@@ -1,0 +1,3 @@
+﻿"Asset","PrefixOffset","TextOffset","LengthIncludingNull","Text","TerminatorOffset","Before16Hex","After24Hex","IsIron","StringFramingCandidate","EnumValueVerified","FullEnumRecordVerified"
+"ResourceNodeType.uasset","444","448","33","435C8AA54066DDE7A10A588ED7456B92","480","00000000000000000000000100000000","0500000049726F6E00000000000200000001000000000000","False","True","False","False"
+"ResourceNodeType.uasset","481","485","5","Iron","489","31304135383845443734353642393200","000000000200000001000000000000000000000000000000","True","True","False","False"
