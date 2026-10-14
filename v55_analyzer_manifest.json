@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v5.5",
+    "Status":  "Completed",
+    "Mode":  "Shifted block-table focus reconstruction, SHA256 comparison, optional verified extraction and binary inspection",
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "ShiftBytes":  5868,
+    "ReferenceMatches":  3,
+    "FilesWritten":  3,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  0.11,
+    "Notes":  [
+                  "Default mode does not write payloads",
+                  "ExtractVerified writes only SHA256 reference-matched files unless AllowUnmatched explicitly enabled",
+                  "No changes to game files",
+                  "String candidates are not interpreted as coordinates"
+              ]
+}

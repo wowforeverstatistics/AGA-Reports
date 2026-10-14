@@ -1,0 +1,4 @@
+﻿"File","ChunkIndex","Length","First32Hex","First4LE","Offset4LE","Offset8LE","Interpretation"
+"ResourceNodeTable.uasset","247","437","00000000980100000200000000000000002200805B030000B8000000C0000000","0","408","2","Raw fields only; no format or coordinate claims"
+"ResourceNodeType.uasset","1981","531","00000000A0010000040000000000000000220480280300001801000018010000","0","416","4","Raw fields only; no format or coordinate claims"
+"ResourceNode.uasset","2212","913","000000009C0200000800000000000000002200805C040000B8010000C0010000","0","668","8","Raw fields only; no format or coordinate claims"

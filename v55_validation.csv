@@ -1,0 +1,5 @@
+﻿"Check","Status","Detail"
+"ShiftedTable","Pass","Start=70538 Records=32581 End=461510 Shift=5868"
+"ReferenceMatches","Observation","3 of 3 focus samples matched SHA256"
+"Extraction","Observation","3 files written; ExtractVerified=True AllowUnmatched=False"
+"SpawnCoordinates","Unverified","No coordinate decoding or location verification attempted"
