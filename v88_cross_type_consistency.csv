@@ -1,0 +1,6 @@
+﻿"TypeName","CandidateCount","KnownSizeCount","SizeMatchCount","CommonPrefixCount","KnownFlagCount","Counterexamples","VerifiedSchema","Note"
+"IntProperty","3","3","3","3","3","0","False","Counts include all detected candidates, not only successful matches"
+"ObjectProperty","3","3","3","3","3","0","False","Counts include all detected candidates, not only successful matches"
+"StructProperty","2","0","0","2","2","0","False","Counts include all detected candidates, not only successful matches"
+"BoolProperty","4","4","3","3","3","1","False","Counts include all detected candidates, not only successful matches"
+"FloatProperty","2","2","2","2","2","0","False","Counts include all detected candidates, not only successful matches"

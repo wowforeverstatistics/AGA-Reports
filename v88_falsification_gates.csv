@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Verified","Reason"
+"Expected primitive sizes match all candidates","False","False","A mismatch falsifies the simple size-word hypothesis; matches alone are not proof"
+"Unrelated texture has zero typed pairs","True","False","Texture control only"
+"External sample included","False","False","Optional external samples improve falsification; ensure an unrelated Blueprint is among them"
+"Engine-grounded parser agreement","False","False","Requires independent Unreal format implementation"
+"Known-value round-trip","False","False","Requires independently known sample values"

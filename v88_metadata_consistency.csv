@@ -1,0 +1,6 @@
+﻿"TypeName","CandidateCount","MostCommonAfter0","MostCommonAfter0Count","DistinctAfter0Values","SampleFields","VerifiedLayout","Note"
+"IntProperty","3","0x00000001","2","2","QuantityMin_18_73E53B0846F2FBEB754C8CB8A25CEB51;EntryPoint;OutQuantity","False","Agreement in candidate raw fields is not proof of property metadata"
+"ObjectProperty","3","0x00000001","2","2","MapRegistrationComponentBP;PlayerCharacter;CallFunc_GetPlayerCharacter_ReturnValue","False","Agreement in candidate raw fields is not proof of property metadata"
+"StructProperty","2","0x00000001","2","1","AcceptableTools;CallFunc_GetDataTableRowFromName_OutRow","False","Agreement in candidate raw fields is not proof of property metadata"
+"BoolProperty","4","0x00000001","3","2","None;CallFunc_BooleanAND_ReturnValue;ReturnValue;On","False","Agreement in candidate raw fields is not proof of property metadata"
+"FloatProperty","2","0x00000001","2","1","K2Node_Event_DeltaSeconds;DeltaSeconds","False","Agreement in candidate raw fields is not proof of property metadata"
