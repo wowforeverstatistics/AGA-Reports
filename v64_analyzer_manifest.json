@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v6.4",
+    "Mode":  "Offline packed-name hypothesis and bounded cooked-package structure audit",
+    "Candidates":  2,
+    "PackedNameEntries":  0,
+    "HeaderOffsetChecks":  20,
+    "CandidateRegions":  11,
+    "EmbeddedPaths":  2,
+    "BlockLayouts":  2,
+    "Errors":  0,
+    "ParsedImports":  0,
+    "ParsedExports":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Candidate packed-name layout: LE32 count at offset 64, LE32 UTF8 byte length at 68, BE16 name lengths, contiguous UTF8 names",
+                  "Name-map decoding is a format hypothesis supported by length and boundary checks; not independently certified as UE Zen",
+                  "Import/export table meanings are not inferred from raw offsets",
+                  "Archive files opened read-only; no game data modified"
+              ]
+}
