@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v8.4",
+    "Mode":  "Read-only property metadata and descriptor consistency validation",
+    "Assets":  6,
+    "TypedDescriptorCandidates":  14,
+    "BoundaryTests":  14,
+    "MetadataConsistencyGroups":  5,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Compares four raw 32-bit words after typed candidate name pairs",
+                  "Tests 0x00200001 as a packed word without asserting field semantics",
+                  "Reports bounded candidate contexts and groups by candidate property type",
+                  "Texture negative control retained; optional external unrelated Blueprint supported",
+                  "No Unreal property schema or gathering coordinates verified",
+                  "Windows PowerShell 5.1 runtime not independently tested by packager"
+              ]
+}
