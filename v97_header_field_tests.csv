@@ -1,0 +1,7 @@
+﻿"File","SHA256","HeaderOffset","UInt32LE","AssetBytes","LongestRunStart","LongestRunEndExclusive","LongestRunLength","EqualsLongestRunLengthMinusOne","EqualsLongestRunLength","EqualsPrintableRunCount","VerifiedHeaderMeaning","Note"
+"AoCHarvestableBase.uasset","4533D5E4C8190CC47D54962E3344382A91B77D39A2E8F54B2FE2320307069499","8","110","13365","1185","3379","2194","False","False","False","False","Cross-asset relationships do not validate field semantics"
+"AoCHarvestableBase.uasset","4533D5E4C8190CC47D54962E3344382A91B77D39A2E8F54B2FE2320307069499","60","111","13365","1185","3379","2194","False","False","False","False","Cross-asset relationships do not validate field semantics"
+"AoCHarvestableBase.uasset","4533D5E4C8190CC47D54962E3344382A91B77D39A2E8F54B2FE2320307069499","64","2193","13365","1185","3379","2194","True","False","False","False","Cross-asset relationships do not validate field semantics"
+"ResourceNode.uasset","425A6DB7E8C49206B5E3D9B5C8644C25008566F5EABB595755772452CD172177","8","8","913","165","420","255","False","False","False","False","Cross-asset relationships do not validate field semantics"
+"ResourceNode.uasset","425A6DB7E8C49206B5E3D9B5C8644C25008566F5EABB595755772452CD172177","60","9","913","165","420","255","False","False","False","False","Cross-asset relationships do not validate field semantics"
+"ResourceNode.uasset","425A6DB7E8C49206B5E3D9B5C8644C25008566F5EABB595755772452CD172177","64","254","913","165","420","255","True","False","False","False","Cross-asset relationships do not validate field semantics"

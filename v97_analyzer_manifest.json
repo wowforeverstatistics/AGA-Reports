@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v9.7.1 Hotfix",
+    "Mode":  "Read-only name-pool framing and header-field falsification",
+    "Assets":  2,
+    "FramingCandidateRuns":  37,
+    "HeaderFieldTests":  6,
+    "NegativeControls":  35,
+    "Offset64LengthMinusOneMatches":  2,
+    "Gates":  8,
+    "Errors":  0,
+    "VerifiedNameMaps":  0,
+    "VerifiedHeaderFields":  0,
+    "VerifiedNameEntryBoundaries":  0,
+    "VerifiedProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Cumulative execution of v9.6 and earlier",
+                  "Heuristic candidate comparisons only",
+                  "SHA256 source integrity verified against v9.4 inventory",
+                  "Read-only; no game files modified"
+              ]
+}
