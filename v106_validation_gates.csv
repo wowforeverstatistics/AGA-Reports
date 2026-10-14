@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"BaselineV1051Completed","True","True","v10.5.1 errors: 0","Execution only"
+"CandidateAlignmentComparisonsCompleted","True","True","91 / 91","Exploratory comparisons only"
+"ContainersWithNonzeroBestScore","True","False","91 / 91","Fit alone is not format proof"
+"ContainersWithPerfectSampledCandidate","True","False","17 / 91","Potential false positives due to multiple hypotheses"
+"IndependentlyVerifiedBlockLayout","False","False","Not established","Requires compatible reference parser or source cross-check"
+"VerifiedPartitionAndPackageMapping","False","False","Not established","No UCAS payload reads"
+"VerifiedGatheringCoordinates","False","False","Not established","No world assets decoded"

@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v10.6",
+    "Mode":  "Read-only competing compression table alignment hypotheses",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  91,
+    "CandidateComparisons":  4154,
+    "Errors":  0,
+    "VerifiedCompressionBlockLayout":  0,
+    "VerifiedPartitionMapping":  0,
+    "VerifiedPackageMappings":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs cumulative v10.5.1 baseline",
+                  "Tests nearby alignment and optional extra per-entry bytes",
+                  "Tests LE and BE 5+3+3+1 hypotheses using spread samples",
+                  "Best scores are exploratory and subject to multiple-hypothesis false positives",
+                  "No independent reference parser executed",
+                  "No UCAS payload read or game files modified"
+              ]
+}
