@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v7.8",
+    "Mode":  "Cumulative offset and candidate payload boundary validation",
+    "Assets":  6,
+    "RecordRows":  33,
+    "EndpointHypotheses":  30,
+    "PayloadWindows":  27,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests offset[i]+length[i]=offset[i+1] in proposed 72-byte records",
+                  "Checks high 32-bit halves separately",
+                  "Tests candidate final sizes and in-file payload windows",
+                  "Includes unrelated texture control",
+                  "Read-only; no inferred ownership or spawn positions"
+              ]
+}

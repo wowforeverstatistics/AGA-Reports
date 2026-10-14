@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","Records","ContinuityPairsChecked","ContinuityPairsPassed","ContinuityPairsFailed","AllPairsPass","NondecreasingRanges","VerifiedSchema","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","2","1","1","0","True","True","False","Continuity is a structural test, not semantic proof"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","1","0","0","0","False","True","False","Continuity is a structural test, not semantic proof"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","1","0","0","0","False","True","False","Continuity is a structural test, not semantic proof"
+"ResourceNodeType.uasset","ResourceNodeType","False","1","0","0","0","False","True","False","Continuity is a structural test, not semantic proof"
+"ResourceNode.uasset","ResourceNode","False","1","0","0","0","False","True","False","Continuity is a structural test, not semantic proof"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","27","26","26","0","True","True","False","Continuity is a structural test, not semantic proof"
