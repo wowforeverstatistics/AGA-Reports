@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v6.8",
+    "Mode":  "Expanded cooked-name map and resource-symbol evidence audit",
+    "Assets":  6,
+    "NameEntries":  138,
+    "CandidateRegions":  43,
+    "RecordPartitions":  46,
+    "CrossAssetPatternGroups":  28,
+    "ResourceSymbols":  15,
+    "BoundedPaths":  8,
+    "EmbeddedPaths":  8,
+    "Errors":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Includes four independent gathering-related reference assets",
+                  "Record size divisibility and small integers are not import/export validation",
+                  "Bounded /Game paths are extracted only from validated candidate name entries; avoids concatenating adjacent paths",
+                  "Larger 111-name harvestable Blueprint is supported by scanning up to offset 8192",
+                  "All inputs are read-only; no game installation required"
+              ]
+}
