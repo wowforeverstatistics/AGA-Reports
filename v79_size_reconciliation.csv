@@ -1,0 +1,7 @@
+﻿"File","Role","FileBytes","HeaderField4","CandidateRecordCount","FirstOffset","LastOffsetPlusLength","FileMinusHeader4","Header4PlusLastEnd","IdentityMatches","ContinuityPairs","ContinuityPassed","AllRecordsInPayloadBounds","HighWordNonzeroRecords","VerifiedPayloadBase","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","693","576","2","0","117","117","693","True","1","1","True","0","False","Numerical reconciliation and bounds only; content semantics not established"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","262704","416","1","0","262288","262288","262704","True","0","0","True","0","False","Numerical reconciliation and bounds only; content semantics not established"
+"ResourceNodeTable.uasset","ResourceNodeTable","437","408","1","0","29","29","437","True","0","0","True","0","False","Numerical reconciliation and bounds only; content semantics not established"
+"ResourceNodeType.uasset","ResourceNodeType","531","416","1","0","115","115","531","True","0","0","True","0","False","Numerical reconciliation and bounds only; content semantics not established"
+"ResourceNode.uasset","ResourceNode","913","668","1","0","245","245","913","True","0","0","True","0","False","Numerical reconciliation and bounds only; content semantics not established"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","13365","7548","27","0","5817","5817","13365","True","26","26","True","0","False","Numerical reconciliation and bounds only; content semantics not established"

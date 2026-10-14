@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v7.9",
+    "Mode":  "Payload base and package size reconciliation",
+    "Assets":  6,
+    "SizeReconciliations":  6,
+    "IdentityMatches":  6,
+    "BaseHypotheses":  30,
+    "PayloadRecordWindows":  33,
+    "HeaderFieldObservations":  84,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests FileBytes - HeaderField4 = final candidate cumulative offset plus length",
+                  "Tests candidate base against EOF and all record bounds",
+                  "Compares alternative bases and samples candidate payload bytes",
+                  "Includes unrelated texture negative control",
+                  "Header meaning and payload semantics remain unverified; read-only offline"
+              ]
+}
