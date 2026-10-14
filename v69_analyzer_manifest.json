@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v6.9",
+    "Mode":  "Resource property and Blueprint reference candidate investigation",
+    "Assets":  6,
+    "ResourceSymbols":  15,
+    "ContextWindows":  15,
+    "RawNameReferenceCandidates":  232,
+    "BoundedPaths":  8,
+    "CrossAssetPaths":  7,
+    "Errors":  0,
+    "VerifiedPropertyValues":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Names and paths use bounded candidate name tables",
+                  "Raw integer matches are not certified UE FName references",
+                  "Context windows are not associated with specific serialized property values",
+                  "No spawn coordinates inferred",
+                  "All source assets opened read-only"
+              ]
+}

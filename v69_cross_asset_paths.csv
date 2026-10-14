@@ -1,0 +1,8 @@
+﻿"Path","FilesContainingPath","FileCount","VerifiedDependency","Meaning"
+"/Game/GameBlueprints/MapRegistrationComponentBP","UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset;AoCHarvestableBase.uasset","2","False","Cross-file name-map co-occurrence only"
+"/Game/CharacterCreator/UI/Textures/ButtonIcons/TUI_Icon_CC_Rogue_Hovered","UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","1","False","Cross-file name-map co-occurrence only"
+"/Game/ENV/Gatherables/ResourceNodeTable","ResourceNodeTable.uasset","1","False","Cross-file name-map co-occurrence only"
+"/Game/ENV/Gatherables/ResourceNodeType","ResourceNodeType.uasset","1","False","Cross-file name-map co-occurrence only"
+"/Game/ENV/Gatherables/ResourceNode","ResourceNode.uasset","1","False","Cross-file name-map co-occurrence only"
+"/Game/UI/UMGMinimap/MinimapComponent/MinimapRessources/TUI_icon_resource","AoCHarvestableBase.uasset","1","False","Cross-file name-map co-occurrence only"
+"/Game/ENV/Gatherables/AoCHarvestableBase","AoCHarvestableBase.uasset","1","False","Cross-file name-map co-occurrence only"
