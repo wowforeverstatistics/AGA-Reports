@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v10.5",
+    "Mode":  "Read-only raw TOC header audit and competing compressed block record hypotheses",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  91,
+    "RecordSamples":  5751,
+    "CandidateBlockTablesFit":  91,
+    "Errors":  1,
+    "VerifiedHeaderFieldSemantics":  0,
+    "VerifiedCompressionBlockEncoding":  0,
+    "VerifiedPartitionMapping":  0,
+    "VerifiedPackageMappings":  0,
+    "VerifiedResourceProperties":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Runs v10.4 and earlier",
+                  "Records raw header field offsets rather than asserting prior semantic labels",
+                  "Compares BE/LE 5+3+3+1 interpretations only",
+                  "No independent reference parser executed",
+                  "No UCAS payload read, decryption, decompression, extraction, or modifications"
+              ]
+}

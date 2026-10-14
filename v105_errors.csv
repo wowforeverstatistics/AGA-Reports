@@ -1,0 +1,4 @@
+﻿"Stage","File","Message","Line","Position"
+"v10.5","","Argument types do not match","81","At C:\Users\meang\Downloads\AGA-IoStore-Header-Compression-Record-Verification-10.5\Analyze-IoStore-v10.5.ps1:81 char:2
++  $n=@($headers).Count;$fit=@($headers|Where-Object {$_.CandidateBlock ...
++  ~~~~~~~~~~~~~~~~~~~~"
