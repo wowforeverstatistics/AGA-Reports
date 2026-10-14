@@ -1,0 +1,6 @@
+﻿"Check","Status","Detail"
+"Directory","Observed","Inventory=2932 entries; selected=5; filename matches only"
+"BlockTable","Pass","Start=70538 Declared=32581 Shift=5868 End=461510"
+"Reconstruction","Observation","Complete=5 of 5; candidate payloads; no reference samples available"
+"Extraction","Observation","FilesWritten=5 ExplicitOptIn=True"
+"SpawnCoordinates","Unverified","No world coordinates parsed or verified"

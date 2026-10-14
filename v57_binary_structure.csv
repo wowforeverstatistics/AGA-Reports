@@ -1,0 +1,6 @@
+﻿"Filename","ChunkIndex","Length","First32Hex","First4LE","Offset4LE","Offset8LE","Interpretation"
+"AoCHarvestableBase.uasset","2437","13365","000000007C1D00006E0000000000000000220080CD290000480D0000700D0000","0","7548","110","Raw fields, not parsed properties or coordinates"
+"FT_Gatherables_Sandstone_Medium_2.uasset","1550","713","000000000B020000020000000300000000220080B2040000F800000000010000","0","523","2","Raw fields, not parsed properties or coordinates"
+"FT_Gatherables_Sandstone_Large_1.uasset","590","715","000000000D020000020000000200000000220080B2040000F800000000010000","0","525","2","Raw fields, not parsed properties or coordinates"
+"SM_Gatherables_Sandstone_Med_01.uasset","1802","134973","0000000097040000090000000000000000220080250800001802000028020000","0","1175","9","Raw fields, not parsed properties or coordinates"
+"SM_Gatherables_Sandstone_Large_03.uasset","2864","154184","00000000970400000900000000000000002200802B0800001802000028020000","0","1175","9","Raw fields, not parsed properties or coordinates"
