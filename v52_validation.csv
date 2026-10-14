@@ -1,0 +1,8 @@
+﻿"Check","Status","Detail"
+"DirectoryTailArithmetic","Pass","DirectoryAt=461510 DirectoryBytes=155184 TailAt=616694 TailBytes=70392"
+"EffectiveBlockCount","Hypothesis","Declared=32581 ExtraRecords=489 Effective=33070"
+"BlockAnomalies","Observation","MethodsNotZero=122 BadSizes=483 OutOfUcas=435 Gaps=2826 Overlaps=234 Contiguous=30009"
+"LastBlockEnd","Pass","LastEnd=2296879456 UCAS=2296879456"
+"ChunkOwnership","Unverified","No validated directory-to-chunk ownership linkage established"
+"SpawnCoordinates","Unverified","No spawn-coordinate parsing attempted"
+"PayloadFiles","Pass","No reconstructed payload files written to disk; only CSV and JSON diagnostics"

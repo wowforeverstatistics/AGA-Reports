@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v5.2",
+    "Status":  "Completed",
+    "Mode":  "Read-only effective block table and focus chunk mapping diagnostics",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "UcasChecked":  true,
+    "UcasBytes":  2296879456,
+    "ChunkCount":  2933,
+    "DeclaredBlocks":  32581,
+    "EffectiveBlocksHypothesis":  33070,
+    "DirectoryAt":  461510,
+    "TailAt":  616694,
+    "MappingAttempts":  8,
+    "ReferenceMatches":  0,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  7.51,
+    "Notes":  [
+                  "Effective table count is a hypothesis, not an amended header",
+                  "SHA1 tail association remains unverified",
+                  "No asset payload files written",
+                  "Earlier analyzers preserved"
+              ]
+}
