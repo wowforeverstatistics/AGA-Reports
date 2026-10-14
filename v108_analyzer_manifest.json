@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v10.8",
+    "Mode":  "Read-only UCAS byte probes and chunk/block boundary validation",
+    "PaksFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TocFiles":  91,
+    "BlockSamples":  5751,
+    "ChunkSamples":  5497,
+    "Errors":  0,
+    "RawUcasBytesRead":  true,
+    "PayloadDecompressed":  false,
+    "IndependentParserExecuted":  false,
+    "VerifiedPackageMappings":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs v10.7 and prior analyzers",
+                  "Reads only short raw UCAS byte prefixes at TOC-derived offsets",
+                  "SHA256 covers only short sampled prefix, not entire block",
+                  "No decryption, decompression, extraction, or modifications",
+                  "Metadata consistency is not independent payload decoding"
+              ]
+}

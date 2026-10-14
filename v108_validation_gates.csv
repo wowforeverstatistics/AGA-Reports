@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence","Note"
+"BaselineV107Completed","True","True","v10.7 errors: 0","Execution only"
+"RawUcasSamplesRead","True","True","5751 sampled blocks","Actual raw bytes read; no decryption or decompression"
+"AllSampledPhysicalRangesInUcas","True","True","91 / 91","Checks only file bounds, not content semantics"
+"AllSampledChunkIndicesValid","True","True","91 / 91","Metadata-derived indices only"
+"AllSampledNeighborOffsetsNonOverlapping","True","False","91 / 91","Alignment/padding may occur; not a proof of decoding"
+"IndependentlyDecodedPayload","False","False","Not attempted","No decryption or decompression"
+"VerifiedPackageNamesAndGatheringCoordinates","False","False","Not established","No package names or world assets decoded"
