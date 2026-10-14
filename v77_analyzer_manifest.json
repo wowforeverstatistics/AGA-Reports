@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v7.7",
+    "Mode":  "Cross-asset record schema reconstruction hypotheses",
+    "Assets":  6,
+    "RegionCountTests":  18,
+    "FieldObservations":  891,
+    "RecordSummaries":  99,
+    "ByteComparisons":  15,
+    "NegativeControlRows":  6,
+    "Errors":  0,
+    "VerifiedSectionLayouts":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests coherent record counts using candidate 72/16/20 byte strides",
+                  "Compares first records byte-by-byte with unrelated texture control",
+                  "All interpretations remain hypotheses",
+                  "Read-only offline analyzer; Windows PowerShell 5.1 runtime verification needed"
+              ]
+}
