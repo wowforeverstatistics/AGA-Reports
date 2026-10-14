@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Verified","Evidence"
+"V119BaselineCompleted","True","True","v11.9 manifest has positive samples and zero errors"
+"AudioMarkerStructureScreened","True","True","1 bounded audio candidates examined"
+"Type01CandidateInventoryCompleted","True","True","3775 type 01 records inventoried"
+"AudioBankFullyParsed","False","False","Only 64-byte prior read; no complete bank parser"
+"EngineTypeDefinitionsIndependentlyVerified","False","False","No independently inspected engine source definition or parser executed"
+"UnrealPackageNamesVerified","False","False","No IoStore package export directory or package summary decoded"
+"GatheringAssetsOrCoordinatesVerified","False","False","No decoded resource identities or coordinates"

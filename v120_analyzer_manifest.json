@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v12.0",
+    "Mode":  "Read-only audio marker section triage and type01 candidate inventory",
+    "InputChunkSamples":  5497,
+    "Type01Candidates":  3775,
+    "Type01LeadingZeroPrefixes":  3775,
+    "AudioTargets":  1,
+    "WwiseLikeCandidates":  1,
+    "Errors":  0,
+    "IndependentEngineReferenceValidated":  false,
+    "VerifiedPackageNames":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "Notes":  [
+                  "Runs v11.9 and all previous analyzers",
+                  "Only previously captured 64-byte audio prefix is parsed",
+                  "No engine source definitions independently checked",
+                  "No full audio extraction, package decoding, decryption or game modifications"
+              ]
+}
