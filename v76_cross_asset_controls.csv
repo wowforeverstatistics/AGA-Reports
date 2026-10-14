@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","Candidate72Bytes","Neighbor16Bytes","Neighbor20Bytes","Header52Equals36","Header56Equals36","ConfirmedRecordLayout","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","144","32","40","True","True","False","Common patterns in control indicate format-level behavior, not gathering ownership"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","72","16","20","True","True","False","Common patterns in control indicate format-level behavior, not gathering ownership"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","72","16","20","True","True","False","Common patterns in control indicate format-level behavior, not gathering ownership"
+"ResourceNodeType.uasset","ResourceNodeType","False","72","16","20","True","True","False","Common patterns in control indicate format-level behavior, not gathering ownership"
+"ResourceNode.uasset","ResourceNode","False","72","16","20","True","True","False","Common patterns in control indicate format-level behavior, not gathering ownership"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","1944","432","540","True","True","False","Common patterns in control indicate format-level behavior, not gathering ownership"

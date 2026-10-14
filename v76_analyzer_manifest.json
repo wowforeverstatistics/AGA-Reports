@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v7.6",
+    "Mode":  "Candidate 72-byte section and adjacent record tests",
+    "Assets":  6,
+    "CandidateSectionWindows":  18,
+    "RecordStrideTests":  162,
+    "FieldObservations":  891,
+    "CrossAssetControls":  6,
+    "Errors":  0,
+    "VerifiedSectionLayouts":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "No inferred record layout or gathering properties",
+                  "Unrelated texture used as format control",
+                  "Read-only offline analyzer",
+                  "Requires Windows PowerShell 5.1 runtime verification"
+              ]
+}
