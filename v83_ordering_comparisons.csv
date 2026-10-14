@@ -1,0 +1,4 @@
+﻿"File","Role","Ordering","CandidateCount","SampleOffsets","VerifiedSchema","Note"
+"ResourceNode.uasset","ResourceNode","TypeThenName","1","800","False","Counts describe hypotheses, not verified property records"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","TypeThenName","13","7772,7964,8796,9024,9276,9476,9680,10356","False","Counts describe hypotheses, not verified property records"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","Unclassified","2","7900,8092","False","Counts describe hypotheses, not verified property records"

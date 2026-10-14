@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v8.3",
+    "Mode":  "Read-only property descriptor reconstruction hypotheses",
+    "Assets":  6,
+    "AdjacentNamePairs":  16,
+    "TargetedPropertyContexts":  4,
+    "OrderingComparisons":  3,
+    "NegativeControls":  6,
+    "Errors":  0,
+    "VerifiedSections":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Tests two adjacent local FName-like 8-byte pairs in both type/name orders",
+                  "Preserves surrounding signed and unsigned fields without assuming numeric property values",
+                  "Prioritizes quantity and gathering-tool references",
+                  "Texture control helps expose generic false positives",
+                  "No Unreal property schema or gathering coordinates claimed verified",
+                  "Windows PowerShell 5.1 runtime not independently tested by packager"
+              ]
+}

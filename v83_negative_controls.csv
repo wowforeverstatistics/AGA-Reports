@@ -1,0 +1,7 @@
+﻿"File","Role","UnrelatedTexture","AdjacentNamePairs","TypedNamePairs","TargetedWindows","VerifiedProperties","Note"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","False","0","0","0","0","Unrelated texture is a false-positive control; zero verified semantics"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","True","0","0","0","0","Unrelated texture is a false-positive control; zero verified semantics"
+"ResourceNodeTable.uasset","ResourceNodeTable","False","0","0","0","0","Unrelated texture is a false-positive control; zero verified semantics"
+"ResourceNodeType.uasset","ResourceNodeType","False","0","0","0","0","Unrelated texture is a false-positive control; zero verified semantics"
+"ResourceNode.uasset","ResourceNode","False","1","1","1","0","Unrelated texture is a false-positive control; zero verified semantics"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","False","15","13","3","0","Unrelated texture is a false-positive control; zero verified semantics"
