@@ -1,0 +1,7 @@
+﻿"File","Role","RegionStart","RegionEnd","ZeroSlots","NonzeroValidIndexSlots","OtherSlots","UnrelatedTexture"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","MapRegistrationCandidate","271","487","14","2","37","False"
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","TextureControl","228","444","20","2","32","True"
+"ResourceNodeTable.uasset","ResourceNodeTable","166","382","18","4","31","False"
+"ResourceNodeType.uasset","ResourceNodeType","264","480","22","2","30","False"
+"ResourceNode.uasset","ResourceNode","700","900","22","6","22","False"
+"AoCHarvestableBase.uasset","HarvestableBlueprint","6924","7500","1","83","60","False"
