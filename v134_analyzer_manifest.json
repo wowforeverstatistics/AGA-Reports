@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v13.4",
+    "Mode":  "Read-only GitHub asset inspection and independent cross-reference screening",
+    "OfflineOnly":  false,
+    "AssetsExpected":  8,
+    "AssetsRead":  8,
+    "PrintableStringObservations":  2758,
+    "GatherableTermObservations":  29,
+    "IndependentCrossReferenceRows":  5,
+    "PriorV133ComparisonAvailable":  true,
+    "Errors":  0,
+    "DecodedPackageNameMaps":  0,
+    "VerifiedPackageIdentities":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedHarvestableAssets":  0,
+    "VerifiedGatheringCoordinates":  0,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Default retrieves eight public GitHub asset files into local cache; -OfflineOnly uses cached files",
+                  "-AssetFolder reads locally supplied assets without GitHub downloads",
+                  "String co-occurrence does not establish Unreal serialized references",
+                  "Existing v13.3 self-comparisons are labeled and excluded from independent evidence"
+              ]
+}

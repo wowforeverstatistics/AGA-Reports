@@ -1,0 +1,6 @@
+﻿"FileA","FileB","SharedPrintableText","IndependentFiles","SerializedDependencyVerified","Interpretation"
+"SM_Gatherables_Sandstone_Large_03.uasset","SM_Gatherables_Sandstone_Med_01.uasset","X/Game/ENV/MasterMats/PhysicalMaterials/PM_Stone/Game/ENV/Gatherables/Stone/Sandstone/Materials/MI_Gatherables_Sandstone_Large_01_Desert","True","False","Identical ASCII text across distinct files only"
+"pakchunk200_s5-WindowsClient.utoc#651","pakchunk1000-WindowsClient.utoc#91","Offset 544; 1/64 matching bytes","True","False","Independent raw chunk comparison only"
+"pakchunk1000-WindowsClient.utoc#1654","pakchunk1000-WindowsClient.utoc#1654","Offset 512; 64/64 matching bytes","False","False","Excluded as self-comparison: not independent corroboration"
+"pakchunk1200-WindowsClient.utoc#1202","pakchunk1200-WindowsClient.utoc#1202","Offset 608; 64/64 matching bytes","False","False","Excluded as self-comparison: not independent corroboration"
+"pakchunk200_s19-WindowsClient.utoc#107","pakchunk200_s30-WindowsClient.utoc#305","Offset 34; 56/64 matching bytes","True","False","Independent raw chunk comparison only"

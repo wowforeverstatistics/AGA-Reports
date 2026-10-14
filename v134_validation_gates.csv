@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsRead","True","8 of 8 available; size changes are recorded"
+"IndependentComparisonGuard","True","Same-file matches excluded from new string comparisons; previous self-comparisons labeled"
+"PriorV133ComparisonAvailable","True","v133 candidate comparison CSV present"
+"DecodedUAssetNameMap","False","Printable strings only; no validated UE name map schema"
+"VerifiedGatherableOrCoordinates","False","No serialized resource type or actor transform parsed"
