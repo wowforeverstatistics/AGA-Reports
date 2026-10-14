@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v7.3",
+    "Mode":  "Unreal cooked package header and name-map boundary investigation",
+    "Assets":  6,
+    "HeaderChecks":  6,
+    "HeaderScalarPairs":  234,
+    "CandidateSectionBoundaries":  12,
+    "HexWindows":  180,
+    "Errors":  0,
+    "VerifiedPackageHeaders":  0,
+    "VerifiedImports":  0,
+    "VerifiedExports":  0,
+    "VerifiedProperties":  0,
+    "VerifiedDependencies":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "Notes":  [
+                  "Checks standard UE4 package tag without assuming cooked IoStore payloads contain it",
+                  "Captures raw header scalars without assigning import/export meanings",
+                  "Candidate name tables are not validated UE package sections",
+                  "Unrelated texture negative control included",
+                  "No quantity or coordinate inference; read-only"
+              ]
+}
