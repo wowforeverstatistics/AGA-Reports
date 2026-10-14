@@ -1,0 +1,5 @@
+﻿"Gate","Passed","Evidence"
+"PriorBaseline","True","28 v13.2 candidate observations"
+"BoundedContextReads","True","28 successful reads of 28 attempts; OfflineOnly=False"
+"SchemaValidatedPackage","False","No UE IoStore package schema validated"
+"GatherableWorldCoordinates","False","No serialized actor transform decoded"

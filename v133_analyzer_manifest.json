@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v13.3",
+    "Mode":  "Read-only candidate-relative bounded context and nonzero pattern comparisons",
+    "OfflineOnly":  false,
+    "InputCandidates":  28,
+    "ContextBoundaryChecks":  28,
+    "ReadAttempts":  28,
+    "SuccessfulContextReads":  28,
+    "CandidateOffsetComparisons":  4,
+    "Errors":  0,
+    "SchemaValidatedHeaders":  0,
+    "PackageIdentitiesVerified":  0,
+    "DependenciesVerified":  0,
+    "HarvestableAssetsVerified":  0,
+    "GatheringCoordinatesVerified":  0,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Up to 32 bytes before and 96 bytes after candidate offset, capped at historical read and raw block bounds",
+                  "Compares up to 64 bytes from candidate offsets, separating equal zero and nonzero bytes",
+                  "No decompression, decryption, or game modifications",
+                  "Repeated bytes do not verify package schemas"
+              ]
+}

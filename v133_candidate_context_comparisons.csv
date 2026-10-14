@@ -1,0 +1,5 @@
+﻿"CandidateOffset","FileA","ChunkA","FileB","ChunkB","ComparedBytes","EqualBytes","EqualNonzeroBytes","EqualZeroBytes","ExactMatch","AllMatchingBytesZero","Interpretation"
+"544","pakchunk200_s5-WindowsClient.utoc","651","pakchunk1000-WindowsClient.utoc","91","64","1","1","0","False","False","Cross-chunk candidate-relative comparison only; no common package schema verified"
+"512","pakchunk1000-WindowsClient.utoc","1654","pakchunk1000-WindowsClient.utoc","1654","64","64","41","23","True","False","Cross-chunk candidate-relative comparison only; no common package schema verified"
+"608","pakchunk1200-WindowsClient.utoc","1202","pakchunk1200-WindowsClient.utoc","1202","64","64","43","21","True","False","Cross-chunk candidate-relative comparison only; no common package schema verified"
+"34","pakchunk200_s19-WindowsClient.utoc","107","pakchunk200_s30-WindowsClient.utoc","305","64","56","31","25","False","False","Cross-chunk candidate-relative comparison only; no common package schema verified"
