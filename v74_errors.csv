@@ -1,0 +1,7 @@
+﻿"File","Message"
+"UNVERIFIED_EndDerivedBlockStart_285_MapRegistrationComponentBP.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64""."
+"UNVERIFIED_EndDerivedBlockStart_273_MapRegistrationComponentBP.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64""."
+"ResourceNodeTable.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64""."
+"ResourceNodeType.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64""."
+"ResourceNode.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64""."
+"AoCHarvestableBase.uasset","Cannot convert the ""@{Position=0; Value=0}"" value of type ""System.Management.Automation.PSCustomObject"" to type ""System.Int64""."
