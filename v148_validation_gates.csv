@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsLoaded","True","Asset inventory"
+"VariableMiddleWindowsScreened","True","86 float32 and 82 float64 windows: verify counts in manifest"
+"CandidateFloat3Screened","True","Overlapping 12-byte float3 windows"
+"EightAssetSignatureScan","True","Seven markers across eight assets"
+"FourIndependentPairs","True","Variable-middle controls"
+"TypedFieldsVerified","False","Numeric plausibility alone is not a field decoder"
+"GatheringCoordinatesVerified","False","No independently verified spatial structure"

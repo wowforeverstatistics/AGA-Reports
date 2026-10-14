@@ -1,0 +1,18 @@
+﻿{
+    "Tool":  "AGA v14.8",
+    "Mode":  "Read-only serialization signature and repeated structure discovery",
+    "AssetsExpected":  8,
+    "AssetsLoaded":  8,
+    "NumericWindows":  168,
+    "Float3Candidates":  78,
+    "SignatureRows":  56,
+    "NegativeControlPairs":  4,
+    "Errors":  0,
+    "TypedFieldsVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Candidate interpretations are not verified fields",
+                  "No game files modified"
+              ]
+}
