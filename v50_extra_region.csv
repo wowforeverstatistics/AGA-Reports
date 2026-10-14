@@ -1,0 +1,3 @@
+﻿"Region","Start","Bytes","ZeroBytes","NonzeroBytes","FFBytes","First64Hex","Interpretation"
+"AfterDeclaredBlockTable","455642","5868","3800","2068","2","0000D48600000001000001000000D58600000001000001000000D68600000001000001000000D78600000001000001000000D88600000001000001000000D986","Unidentified; 5868-byte boundary is a hypothesis"
+"LengthRelationships","455642","5868","","","","","ExtraMinus2=5866; ChunkCountTimes2=5866; Delta=2"

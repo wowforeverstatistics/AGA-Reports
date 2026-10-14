@@ -1,0 +1,27 @@
+﻿{
+    "Tool":  "AGA v5.0",
+    "Status":  "Completed",
+    "Mode":  "Read-only IoStore header and compression-block metadata investigation",
+    "FocusContainer":  "pakchunk200_s5-WindowsClient.utoc",
+    "UcasChecked":  true,
+    "UcasBytes":  2296879456,
+    "ChunkCount":  2933,
+    "CompressionBlocks":  32581,
+    "BlockTableStart":  64670,
+    "BlockTableEnd":  455642,
+    "Method255":  122,
+    "ZeroUncompressed":  68,
+    "OutOfUcas":  435,
+    "PhysicalGaps":  2666,
+    "PhysicalOverlaps":  31,
+    "HypothesisCount":  14,
+    "Errors":  0,
+    "VerifiedChunkOwnership":  0,
+    "VerifiedSpawnCoordinates":  0,
+    "ElapsedSeconds":  13.94,
+    "Notes":  [
+                  "Layout hypotheses are diagnostic only, not proof of correctness",
+                  "No game writes, network access, or payload extraction",
+                  "Previous versions remain separately runnable"
+              ]
+}

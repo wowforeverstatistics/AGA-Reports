@@ -1,0 +1,5 @@
+﻿"Check","Status","Detail"
+"HeaderBounds","Pass","Header=144; Chunks=2933; Blocks=32581; BlockEntrySize=12; BlockSize=65536; DeclaredEnd=455642; UtocSize=687086"
+"CanonicalBlockLayout","Observation","Method255=122; ZeroUncompressed=68; ShortUncompressed=3198; OutsideUcas=435; PhysicalGaps=2666; PhysicalOverlaps=31; MaxPhysicalEnd=1099528404507; UcasBytes=2296879456"
+"ExtraRegion","Observation","Bytes=5868; NonzeroBytes=2068; First64Hex=0000D48600000001000001000000D58600000001000001000000D68600000001000001000000D78600000001000001000000D88600000001000001000000D986; No structure verified"
+"NoPayloadExtraction","Pass","This version intentionally does not reconstruct assets or infer spawn coordinates"
