@@ -1,0 +1,7 @@
+﻿"Container","ByteOrder","Entries","ZeroValues","AdjacentPlusOne","MatchesChunkFirstUInt16LittleEndian","MatchesChunkFirstUInt16BigEndian","ByteOrderMeaningVerified"
+"pakchunk200_s5-WindowsClient.utoc","LittleEndian","2933","1390","455","0","0","False"
+"pakchunk200_s5-WindowsClient.utoc","BigEndian","2933","1390","455","0","0","False"
+"pakchunk1000-WindowsClient.utoc","LittleEndian","1931","777","258","0","0","False"
+"pakchunk1000-WindowsClient.utoc","BigEndian","1931","777","258","0","0","False"
+"pakchunk200_s4-WindowsClient.utoc","LittleEndian","567","278","91","0","0","False"
+"pakchunk200_s4-WindowsClient.utoc","BigEndian","567","278","90","0","0","False"

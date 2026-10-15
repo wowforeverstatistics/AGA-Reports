@@ -1,0 +1,4 @@
+﻿"Container","Hypothesis","BestByteOffset","Matches","AdjacentPairs","Counterexamples","FirstTailMismatch","Verified"
+"pakchunk200_s5-WindowsClient.utoc","12-byte repeated record with first 16-bit field incrementing","0","431","487","56","252->264","False"
+"pakchunk1000-WindowsClient.utoc","12-byte repeated record with first 16-bit field incrementing","0","205","320","115","12->24","False"
+"pakchunk200_s4-WindowsClient.utoc","12-byte repeated record with first 16-bit field incrementing","8","87","92","5","92->104","False"

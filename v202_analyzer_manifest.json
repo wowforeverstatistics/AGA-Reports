@@ -1,0 +1,17 @@
+﻿{
+    "Tool":  "AGA v20.2",
+    "Baseline":  "v20.1",
+    "Mode":  "Read-only raw-byte record boundary and byte-order falsification",
+    "Containers":  3,
+    "RawAlignmentTests":  210,
+    "UnusualEntries":  1000,
+    "Errors":  0,
+    "RecordBoundaryVerified":  false,
+    "PackageMappingVerified":  false,
+    "CoordinatesVerified":  false,
+    "Notes":  [
+                  "12-byte record width is a hypothesis",
+                  "Raw bytes are read from UTOC only",
+                  "No UCAS payload reads or game modifications"
+              ]
+}

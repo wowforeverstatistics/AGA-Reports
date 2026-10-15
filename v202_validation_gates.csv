@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"ThreeContainersAnalyzed","True","3 / 3"
+"RawMetadataMatchesV200Inventory","True","Checks raw little-endian values against v20.0 output"
+"RecordBoundaryIndependentlyVerified","False","Pattern matching does not establish structural record boundaries"
+"ByteOrderSemanticsVerified","False","Both byte orders tested; semantics unknown"
+"GatheringPackageMappingVerified","False","File index is not verified TOC index"
+"GatheringCoordinatesVerified","False","No UCAS payload reads"
