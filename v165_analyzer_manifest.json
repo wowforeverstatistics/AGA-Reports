@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v16.5",
+    "Mode":  "Read-only expanded bounded IoStore filename discovery and strict gameplay name screening",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "AssetsLoaded":  8,
+    "UtocFilesInspected":  91,
+    "MagicMatches":  91,
+    "BytesScanned":  17721200,
+    "RawFilenameHits":  144038,
+    "UniqueFilenameRecords":  144038,
+    "GameplayNameCandidates":  28,
+    "GatheringVisualOrPlantCandidates":  1190,
+    "Errors":  0,
+    "DirectoryOffsetVerified":  false,
+    "DirectoryDecoded":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Per-container three 256 KiB candidate regions, merged, with 32 KiB bounded reads",
+                  "Coverage reported per file; not necessarily exhaustive",
+                  "No UCAS reads; no game files modified",
+                  "Visual naming cannot verify gameplay behavior"
+              ]
+}

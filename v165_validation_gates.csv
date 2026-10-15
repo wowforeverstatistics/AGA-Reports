@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsLoaded","True","Reference samples only"
+"ExpandedFilenameScan","True","Bounded region reads with overlap and deduplication"
+"VisualGameplaySeparation","True","Texture, mesh, foliage, UI and material keyword names excluded from gameplay shortlist"
+"DirectoryOffsetVerified","False","No independently validated directory index"
+"GameplaySchemaVerified","False","No gameplay object payload parsed"
+"GatheringCoordinatesVerified","False","No world spatial schema parsed"
