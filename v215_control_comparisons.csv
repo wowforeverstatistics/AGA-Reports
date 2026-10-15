@@ -1,0 +1,7 @@
+﻿"Container","ControlFamily","Controls","ActualMeanAbsoluteDistance","ControlsWithMeanDistanceAtMostActual","ActualEqualMetadataValues","ControlsWithEqualMetadataAtLeastActual","ActualWithin100","ControlsWithWithin100AtLeastActual","EmpiricalLowerTailDistanceP","EmpiricalUpperTailMetadataAgreementP","EmpiricalUpperTailWithin100P","ExploratoryControlsOnly","IndependentDataset"
+"pakchunk200_s5-WindowsClient.utoc","GlobalCircular","202","808.332651","0","225","202","172","0","0.004926","1","0.004926","True","False"
+"pakchunk200_s5-WindowsClient.utoc","Suffix02RegionPreserving","10","808.332651","0","225","10","172","0","0.090909","1","0.090909","True","False"
+"pakchunk1000-WindowsClient.utoc","GlobalCircular","200","602.466667","8","57","150","62","0","0.044776","0.751244","0.004975","True","False"
+"pakchunk1000-WindowsClient.utoc","Suffix02RegionPreserving","10","602.466667","2","57","7","62","0","0.272727","0.727273","0.090909","True","False"
+"pakchunk200_s4-WindowsClient.utoc","GlobalCircular","199","160.340708","0","65","102","92","0","0.005","0.515","0.005","True","False"
+"pakchunk200_s4-WindowsClient.utoc","Suffix02RegionPreserving","10","160.340708","0","65","7","92","4","0.090909","0.727273","0.454545","True","False"

@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v21.5",
+    "Baseline":  "v21.4",
+    "Mode":  "Read-only prefix-pair locality and metadata relationship falsification",
+    "Containers":  3,
+    "LocalityRows":  12,
+    "ControlRows":  634,
+    "RegionRows":  9,
+    "ComparisonRows":  6,
+    "Errors":  0,
+    "ReproducesV214":  true,
+    "IndependentHoldoutDataset":  false,
+    "PairSemanticsVerified":  false,
+    "RecordBoundariesVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Deterministic re-pairing controls are exploratory, not independent validation",
+                  "Suffix02-region-preserving controls preserve region membership of suffix02 entries",
+                  "Empirical tail proportions are finite-control diagnostics, not proof of field semantics",
+                  "No UCAS reads or game modifications"
+              ]
+}
