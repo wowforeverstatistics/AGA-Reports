@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v16.2",
+    "Mode":  "Read-only bounded filename framing and adjacency controls",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "AssetsLoaded":  8,
+    "UtocFilesInspected":  91,
+    "MagicMatches":  91,
+    "WindowRows":  364,
+    "FramedFilenameRows":  33387,
+    "ChainRows":  364,
+    "MisalignmentControlRows":  364,
+    "Errors":  0,
+    "DirectoryOffsetVerified":  false,
+    "DirectoryDecoded":  false,
+    "EncryptionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Filename strings are not directory index proof",
+                  "Candidate windows can overlap shifted negative controls",
+                  "Bounded to 256-byte headers and four 4096-byte windows per utoc",
+                  "No game files modified"
+              ]
+}

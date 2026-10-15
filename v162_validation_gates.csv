@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsLoaded","True","Reference sample inventory"
+"IoStoreHeadersInspected","True","Bounded header reads"
+"FilenameFramingProbed","True","Candidate windows and shifted controls"
+"DirectoryOffsetVerified","False","Filename strings cannot validate index boundaries"
+"DirectoryDecoded","False","No FIoDirectoryIndexResource deserializer"
+"EncryptionVerified","False","No encryption metadata validation"
+"GatheringCoordinatesVerified","False","No spatial schema validation"
