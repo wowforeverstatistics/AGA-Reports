@@ -1,0 +1,26 @@
+﻿{
+    "Tool":  "AGA v21.3",
+    "Baseline":  "v21.2",
+    "Mode":  "Read-only chunk ID prefix/suffix duplicate and cross-container classification",
+    "Containers":  3,
+    "PrefixGroupRows":  3913,
+    "DuplicateMemberRows":  3036,
+    "SuffixProfileRows":  1010,
+    "SuffixRegionRows":  1022,
+    "SuffixGapRows":  261,
+    "ShiftControlRows":  15,
+    "CrossContainerRows":  3,
+    "Errors":  0,
+    "ReproducesV212":  true,
+    "IndependentHoldoutDataset":  false,
+    "ChunkIdFieldSemanticsVerified":  false,
+    "RecordBoundariesVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Repeated prefixes do not establish identical assets or packages",
+                  "Prefix/suffix byte partition is a testable hypothesis, not verified Unreal field semantics",
+                  "Cross-container overlap is descriptive; no file-to-TOC mapping",
+                  "No UCAS reads or game-file modifications"
+              ]
+}

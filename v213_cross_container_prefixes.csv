@@ -1,0 +1,4 @@
+﻿"ContainerA","ContainerB","UniquePrefixesA","UniquePrefixesB","SharedPrefixes","SharedPrefixSuffixPairs","SharedPackageIdentityVerified"
+"pakchunk200_s5-WindowsClient.utoc","pakchunk1000-WindowsClient.utoc","1956","1616","0","0","False"
+"pakchunk200_s5-WindowsClient.utoc","pakchunk200_s4-WindowsClient.utoc","1956","341","0","0","False"
+"pakchunk1000-WindowsClient.utoc","pakchunk200_s4-WindowsClient.utoc","1616","341","0","0","False"
