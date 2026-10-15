@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v16.3",
+    "Mode":  "Read-only deduplicated filename inventory and keyword discovery",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "AssetsLoaded":  8,
+    "UtocFilesInspected":  91,
+    "MagicMatches":  91,
+    "RawWindowFilenameHits":  16695,
+    "UniqueFilenameRecords":  8350,
+    "ResourceKeywordCandidates":  613,
+    "UniqueAdjacentChains":  220,
+    "BoundaryControlRows":  182,
+    "Errors":  0,
+    "DirectoryOffsetVerified":  false,
+    "DirectoryDecoded":  false,
+    "EncryptionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Deduplicated by container plus absolute offset",
+                  "Overlapping windows do not create duplicate inventory rows",
+                  "Keyword hits are unverified resource semantics",
+                  "Two bounded 4096-byte windows per utoc; no game files modified"
+              ]
+}
