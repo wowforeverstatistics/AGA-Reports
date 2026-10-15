@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v16.6",
+    "Mode":  "Read-only targeted IoStore filename neighborhood reconstruction",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "TargetProbeSuccesses":  7,
+    "NearbyFilenameRows":  266,
+    "NeighborFieldRows":  84,
+    "ShiftedControlRows":  84,
+    "Errors":  0,
+    "DirectoryOffsetVerified":  false,
+    "DirectoryDecoded":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Offsets originate from v16.5 filename sightings and must be revalidated locally",
+                  "Metadata filename offset is not a payload offset",
+                  "Windows are bounded to 1536 bytes per target; no UCAS reads; no modifications"
+              ]
+}

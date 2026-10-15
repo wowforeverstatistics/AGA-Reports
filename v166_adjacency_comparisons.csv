@@ -1,0 +1,8 @@
+﻿"Target","ExactFramed","PreviousFilename","PreviousEnd","GapBefore","NextFilename","NextStart","GapAfter","AdjacentMetadataVerified"
+"ResourceNodeTable.uasset","True","SM_GoreDiorama_VekFoot_01.uasset","515815","0","SM_Aelan_Flagstone_Road_Sliver_02.uasset","515844","0","False"
+"ResourceNodeType.uasset","True","T_Cave_Ice_Noise_D.uasset","581756","0","Master_Speedtree_Foliage_Glow.uasset","581784","0","False"
+"ResourceNode.uasset","True","FT_Gatherables_VolcanicRock_Medium_2.uasset","590002","0","Basalt_Tiling_ORM.ubulk","590026","0","False"
+"AoCHarvestableBase.uasset","True","MI_Ancients_CorruptedEssenceStore_01.uasset","598273","0","Starfish_01_N.uasset","598303","0","False"
+"HarvestableResource.uasset","True","ALS_N_Falling_LeanPose_R.uasset","651056","0","CM_M_AMB_Generic_Crafting_Loop.uasset","651087","0","False"
+"BTT_Bot_UpdateHarvestableTarget.uasset","True","TUI_Icon_Consumable_Food_AlchemistsAppleTart.uasset","744145","0","TUI_Icon_Consumable_Drink_WarpAndWeftWheat.uasset","744188","0","False"
+"BTD_Bot_IsInHarvestableRange.uasset","True","C_0_2_2.uasset","834827","0","TUI_Icon_Gear_Weapons_Sword_2H_Common.uasset","834867","0","False"

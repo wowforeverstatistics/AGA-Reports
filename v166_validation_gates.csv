@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"TargetFilenameMatches","True","Exact framed filename matches: 7/7"
+"ReadOnlyBoundedMetadata","True","At most 1536 bytes per target; no UCAS reads"
+"DirectoryIndexVerified","False","Filename offsets are not independently validated directory entries"
+"PackageIdOrChunkMappingVerified","False","No package IDs or chunk locations decoded"
+"GameplaySchemaVerified","False","No asset payload or gameplay object decoded"
+"GatheringCoordinatesVerified","False","No spatial schema or coordinate validation"

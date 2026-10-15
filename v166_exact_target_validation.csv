@@ -1,0 +1,8 @@
+﻿"Target","Container","Offset","Status","ExactFilenameMatch","MetadataOnly"
+"ResourceNodeTable.uasset","pakchunk200_s5-WindowsClient.utoc","515815","ExactFramedFilename","True","True"
+"ResourceNodeType.uasset","pakchunk200_s5-WindowsClient.utoc","581756","ExactFramedFilename","True","True"
+"ResourceNode.uasset","pakchunk200_s5-WindowsClient.utoc","590002","ExactFramedFilename","True","True"
+"AoCHarvestableBase.uasset","pakchunk200_s5-WindowsClient.utoc","598273","ExactFramedFilename","True","True"
+"HarvestableResource.uasset","pakchunk300-WindowsClient.utoc","651056","ExactFramedFilename","True","True"
+"BTT_Bot_UpdateHarvestableTarget.uasset","pakchunk0-WindowsClient.utoc","744145","ExactFramedFilename","True","True"
+"BTD_Bot_IsInHarvestableRange.uasset","pakchunk0-WindowsClient.utoc","834827","ExactFramedFilename","True","True"
