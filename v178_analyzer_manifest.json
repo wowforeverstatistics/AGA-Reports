@@ -1,0 +1,26 @@
+﻿{
+    "Tool":  "AGA v17.8",
+    "Mode":  "Read-only count/boundary and 16-byte graph hypothesis tests",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "PathAnchorsProbed":  3,
+    "ExactPathMatches":  3,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "BoundaryModels":  72,
+    "FullCountReferenceTests":  96,
+    "RootCycleRows":  96,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "First post-path U32 is tested as a count, not assumed to be one",
+                  "Candidate 12/16/20-byte boundaries and shifts 0/4/8/12 are compared",
+                  "Only 16-byte models receive full proposed-count graph tests",
+                  "Count models are bounded by available bytes and 100000 records",
+                  "No UCAS reads or game modifications",
+                  "PowerShell 5.1 execution requires testing on Windows"
+              ]
+}

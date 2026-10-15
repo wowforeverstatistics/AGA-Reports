@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ExactPathFrames","True","3 of 3"
+"ExactTargetFilenameFrames","True","7 of 7"
+"DirectoryArrayBoundaryVerified","False","Count and width hypotheses require independent structural validation"
+"DirectoryRootVerified","False","Sentinel roots and cycles are candidate-only"
+"PackageToChunkMapped","False","No verified package/chunk references"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial schema decoded"
