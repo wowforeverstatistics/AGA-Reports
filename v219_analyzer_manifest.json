@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v21.9",
+    "Baseline":  "v21.8",
+    "Mode":  "Read-only raw-byte reproduction of directory UserData and TOC chunk ID suffix partition",
+    "Containers":  3,
+    "RawFileEntryRows":  4428,
+    "SuffixPartitionRows":  11,
+    "SpecialChunkRows":  1003,
+    "GatheringRawCandidateRows":  4,
+    "Errors":  0,
+    "IndependentHoldoutDataset":  false,
+    "FileToTocMappingVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Rereads 12-byte directory file records and 12-byte chunk IDs directly from original UTOC files",
+                  "Raw-byte reproduction is not independent holdout validation",
+                  "Suffix 06/09 entries are skipped by UserData selection; their semantics are unknown",
+                  "Candidate gathering chunk IDs remain unverified asset ownership",
+                  "No UCAS reads or game modifications"
+              ]
+}
