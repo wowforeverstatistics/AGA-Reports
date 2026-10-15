@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v21.6",
+    "Baseline":  "v21.5",
+    "Mode":  "Read-only directory file index versus TOC index arithmetic falsification",
+    "Containers":  3,
+    "OffsetHypothesisRows":  33,
+    "GatheringTargetHypothesisRows":  44,
+    "ModuloControlRows":  15,
+    "DirectoryCoverageRows":  3,
+    "Errors":  0,
+    "IndependentFileToTocEvidence":  false,
+    "FileToTocMappingVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "No independent file-to-TOC references are decoded by this version",
+                  "In-bounds arithmetic offsets are NOT mapping evidence",
+                  "Modulo shift controls have tautological 100% in-bounds coverage",
+                  "Candidate gathering chunk IDs are explicitly hypothetical",
+                  "No UCAS payload reads or game modifications"
+              ]
+}
