@@ -1,0 +1,8 @@
+﻿"File","Target","Offset","ExactFramed","MetadataBoundaryVerified","CompletePathVerified","PackageIdVerified"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNodeTable.uasset","515815","True","False","False","False"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNodeType.uasset","581756","True","False","False","False"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNode.uasset","590002","True","False","False","False"
+"pakchunk200_s5-WindowsClient.utoc","AoCHarvestableBase.uasset","598273","True","False","False","False"
+"pakchunk300-WindowsClient.utoc","HarvestableResource.uasset","651056","True","False","False","False"
+"pakchunk0-WindowsClient.utoc","BTT_Bot_UpdateHarvestableTarget.uasset","744145","True","False","False","False"
+"pakchunk0-WindowsClient.utoc","BTD_Bot_IsInHarvestableRange.uasset","834827","True","False","False","False"

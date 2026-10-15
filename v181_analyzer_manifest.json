@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v18.1",
+    "Mode":  "Read-only metadata-to-filename boundary correlation",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "HeaderRows":  5,
+    "BoundaryCandidateRows":  35,
+    "FilenameContextRows":  320,
+    "GapTransitionRows":  320,
+    "TargetRows":  7,
+    "Errors":  0,
+    "MetadataFilenameBoundaryVerified":  false,
+    "DirectoryTreeVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "BaselineAnalyzer":  "v18.0.1 rerun",
+    "Notes":  [
+                  "Competing section candidates include independent observed first and last asset frames",
+                  "Gap transitions and preceding bytes are evidence only; no schema inferred",
+                  "No UCAS reads or game modification",
+                  "Windows PowerShell 5.1 runtime must be tested on Windows"
+              ]
+}

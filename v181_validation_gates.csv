@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"FiveContainerHeaders","True","5 header rows"
+"ExactTargetFilenameFrames","True","7 targets evaluated"
+"MetadataFilenameBoundaryVerified","False","Offsets and gaps remain competing candidates"
+"CompletePathsReconstructed","False","No independent directory-to-filename references established"
+"PackageToChunkMapped","False","No verified package/chunk references"
+"GatheringCoordinatesVerified","False","No gameplay payload decoded"
