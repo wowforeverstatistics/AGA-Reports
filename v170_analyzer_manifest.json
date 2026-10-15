@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v17.0",
+    "Mode":  "Read-only bounded filename region and run-boundary validation",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "RegionWindows":  17,
+    "FilenameRunRows":  341,
+    "Errors":  0,
+    "DirectoryIndexVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Candidate runs are only contiguous filename frames, not decoded directory-tree entries",
+                  "Bounded 64KiB windows at hypothetical section ends, tails, and target neighborhoods",
+                  "No UCAS reads or game file modifications",
+                  "Windows PowerShell 5.1 runtime validation required"
+              ]
+}

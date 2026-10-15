@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Evidence"
+"ExactFilenameTargets","True","7 of 7 target filename frames"
+"DirectoryIndexVerified","False","Filename runs are not a decoded directory tree"
+"PackageIdOrChunkMappingVerified","False","No independent mapping to package IDs or chunks"
+"GameplaySchemaVerified","False","No asset payload decoded"
+"GatheringCoordinatesVerified","False","No world coordinate schema decoded"
