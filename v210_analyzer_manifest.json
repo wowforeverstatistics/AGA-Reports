@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v21.0",
+    "Baseline":  "v20.9",
+    "Mode":  "Read-only counter-family, region-holdout, phase and local-boundary falsification",
+    "Containers":  3,
+    "RegionRows":  9,
+    "PhaseRegionRows":  54,
+    "LocalBoundaryRows":  572,
+    "CounterFamilyRows":  33,
+    "Errors":  0,
+    "ReproducesV209":  true,
+    "RecordBoundariesVerified":  false,
+    "CounterSemanticsVerified":  false,
+    "IndependentHoldoutDataset":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Region splits are internal holdouts, not independent data",
+                  "Global phase tests reuse the same sequential-match criterion",
+                  "No UCAS reads or game-file modifications"
+              ]
+}
