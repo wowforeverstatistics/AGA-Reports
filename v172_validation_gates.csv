@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"HeaderSignatureAndVersionPlausible","True","Magic, version word, and header size only"
+"ExactTargetFilenameFrames","True","7 of 7 exact filename frames"
+"DirectoryIndexParsed","False","No independently verified version-8 directory index field mapping or tree parser"
+"PackageToChunkMapped","False","No verified package/chunk relationship"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial payload decoded"

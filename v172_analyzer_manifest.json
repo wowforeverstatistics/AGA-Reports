@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v17.2",
+    "Mode":  "Read-only version-8 header field matrix and competing section-width model controls",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "HeaderRows":  5,
+    "WidthModelRows":  15,
+    "CandidateRegionRows":  25,
+    "Errors":  0,
+    "DirectoryIndexVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Observed header word offsets are not a verified field schema",
+                  "Competing block-width models 10, 12, 16 bytes are falsification controls, not asserted layouts",
+                  "No UCAS reads or game modifications",
+                  "Windows PowerShell 5.1 runtime testing required"
+              ]
+}
