@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v23.3",
+    "Baseline":  "v23.2",
+    "Mode":  "Read-only harvesting filename cross-reference and negative controls",
+    "CandidatePathsConsumed":  49935,
+    "PriorityRowsConsumed":  439,
+    "AnchorsResolved":  439,
+    "CandidateTextualEdges":  1583,
+    "NegativeControlRows":  8,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "GameplayFunctionVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Edges are shared-stem or same-directory textual similarities only",
+                  "No binary asset reference graph has been recovered",
+                  "No UCAS reads, asset extraction, game modification, or world coordinates"
+              ]
+}

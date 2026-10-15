@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"FullCatalogConsumed","True","49935 candidate paths"
+"AllPriorityAnchorsResolved","True","439 / 439 anchors"
+"NoAnalyzerErrors","True","0 errors"
+"ObjectReferencesVerified","False","No Unreal object references decoded"
+"GameplayFunctionVerified","False","Textual grouping is not gameplay evidence"
+"GatheringCoordinatesVerified","False","No coordinates extracted"
