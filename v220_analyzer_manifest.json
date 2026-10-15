@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v22.0",
+    "Baseline":  "v21.9",
+    "Mode":  "Read-only directory-to-TOC mapping corroboration and unverified-field audit",
+    "Containers":  3,
+    "RawReferenceRows":  4428,
+    "RepeatedPrefixRows":  1518,
+    "SpecialSuffixRows":  1004,
+    "GatheringRows":  4,
+    "AdditionalContainersInventoried":  88,
+    "Errors":  0,
+    "FieldMeaningEstablished":  false,
+    "IndependentFileToTocEvidence":  false,
+    "GatheringPackageOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Original UTOC bytes are reread, but this is not independent holdout evidence",
+                  "Suffix partition is a structural relationship, not a proven chunk-type interpretation",
+                  "Additional UTOC containers are inventoried only; unknown layouts are not guessed",
+                  "No UCAS reads, game-file modifications, or coordinate claims"
+              ]
+}
