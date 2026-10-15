@@ -1,8 +1,0 @@
-﻿"Gate","Passed","Verified","Evidence","Note"
-"BaselineV99Completed","True","True","v9.9 errors: 0","Analyzer execution only"
-"SHA256InventoryGenerated","True","True","9 files","Hashes identify bytes; not extraction authenticity"
-"ProvenanceClaimsProvided","False","False","0 / 9 records","Metadata claims are not independent proof"
-"IndependentlyVerifiedExtraction","False","False","No independent extraction check implemented","Require reproducible chunk mapping or external trusted decoder"
-"IndependentlyParsedContainerFormat","False","False","No format-aware parser supplied","Signature observations are insufficient"
-"VerifiedNameMapOrProperties","False","False","Not established","No serialized property decoder"
-"VerifiedWorldSpawnCoordinates","False","False","Not established","No world placements decoded"
