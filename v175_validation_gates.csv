@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ExactPathFrames","True","3 of 3"
+"ExactTargetFilenameFrames","True","7 of 7"
+"DirectoryTreeParsed","False","No verified directory index schema or parent-child entry references"
+"MountPathVsDirectoryDistinguished","False","Path strings alone cannot establish their structural role"
+"PackageToChunkMapped","False","No independently verified package/chunk references"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial schema decoded"

@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v17.5",
+    "Mode":  "Read-only path record neighborhood and serialization gap investigation",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "PathAnchorsProbed":  3,
+    "ExactPathMatches":  3,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "NeighborFrameRows":  3,
+    "NegativeControlRows":  27,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Three v17.4 path candidates are checked at exact byte offsets",
+                  "Neighbor framed strings and gaps are observations, not directory relationships",
+                  "No UCAS reads or game modifications",
+                  "Windows PowerShell 5.1 runtime not tested in build environment"
+              ]
+}
