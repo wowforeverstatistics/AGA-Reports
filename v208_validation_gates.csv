@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ThreeContainersAnalyzed","True","3 / 3"
+"ReproducesV207PatternCounts","True","All three container counts checked against v207"
+"RecordBoundariesVerified","False","Six-field alignment remains a candidate"
+"SpecialMarkerSemanticsVerified","False","Two-break motifs are descriptive only"
+"FirstFieldSequenceMeaningVerified","False","Numeric deltas do not prove counter semantics"
+"GatheringPackageMappingVerified","False","No verified file-index-to-TOC relationship"
+"GatheringCoordinatesVerified","False","No UCAS payload reads"

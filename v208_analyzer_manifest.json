@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v20.8",
+    "Baseline":  "v20.7",
+    "Mode":  "Read-only first-field gap and tail-transition correlation",
+    "Containers":  3,
+    "TransitionRows":  899,
+    "TransitionMatrixRows":  177,
+    "ForwardGapProfileRows":  24,
+    "RepeatedValueProfileRows":  42,
+    "TwoBreakMotifRows":  109,
+    "Errors":  0,
+    "ReproducesV207":  true,
+    "RecordBoundariesVerified":  false,
+    "SpecialMarkerSemanticsVerified":  false,
+    "FirstFieldSequenceMeaningVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Two-break motif requires failed i and i+1 comparisons with successful outer neighbors to isolate one candidate",
+                  "Transition matrix describes correlation, not causality",
+                  "No UCAS reads or game modifications"
+              ]
+}
