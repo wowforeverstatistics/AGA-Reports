@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v17.1",
+    "Mode":  "Read-only candidate directory serialization boundary and filename correlation controls",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "BoundaryRows":  30,
+    "FilenameChainRows":  7,
+    "NegativeControlRows":  42,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "No directory tree parser or payload mapping is claimed",
+                  "12-byte arrays remain a hypothesis",
+                  "Read-only UTOC inspection; no UCAS reads",
+                  "PowerShell 5.1 execution must be tested on Windows"
+              ]
+}

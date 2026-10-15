@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Evidence"
+"ExactTargetFilenameFrames","True","7 of 7 exact filename frames"
+"DirectoryTreeParsed","False","No validated directory serialization parser"
+"PackageToChunkMapped","False","No verified package IDs or chunk offsets"
+"GameplayPayloadDecoded","False","No UCAS reads or asset payload extraction"
+"GatheringCoordinatesVerified","False","No world-coordinate schema parsed"
