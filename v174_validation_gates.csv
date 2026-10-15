@@ -1,0 +1,6 @@
+﻿"Gate","Passed","Evidence"
+"ExactTargetFilenameFrames","True","7 of 7"
+"DirectoryTreeParsed","False","Framed strings and contiguous chains do not establish directory entry structure"
+"PackageToChunkMapped","False","No independently verified entry IDs, package IDs or chunk references"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No coordinate schema decoded"

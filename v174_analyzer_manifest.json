@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v17.4",
+    "Mode":  "Read-only bounded metadata transition and framed-string structure investigation",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "TransitionRows":  5,
+    "ChainRows":  155,
+    "PathRows":  3,
+    "NegativeControlRows":  35,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Scans bounded 128KiB regions centered on previously observed filename onsets",
+                  "Framed paths and names do not prove serialized directory hierarchy",
+                  "No UCAS reads or game modifications",
+                  "Windows PowerShell 5.1 runtime testing required"
+              ]
+}
