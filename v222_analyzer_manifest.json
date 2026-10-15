@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v22.2",
+    "Baseline":  "v22.1",
+    "Mode":  "Read-only directory-anchor recovery and falsification",
+    "RejectedContainersExamined":  3,
+    "ContainersWithSummary":  2,
+    "MountAnchorOccurrences":  3,
+    "StrideHypothesisRows":  0,
+    "UniquelyPlausibleSuffixMatchingLayouts":  0,
+    "CandidateFileEntryRows":  0,
+    "Errors":  1,
+    "DirectoryLayoutSemanticsVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Scans complete UTOC for length-prefixed ../../../ mount anchors",
+                  "Tests directory-entry stride 12/16/20/24/28/32 only as hypotheses",
+                  "Ambiguous and unsupported layouts are not accepted",
+                  "No UCAS reads and no game-file modifications"
+              ]
+}

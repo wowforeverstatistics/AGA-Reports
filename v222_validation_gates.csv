@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ThreeRejectedContainersExamined","False","2 of 3 examined"
+"AtLeastOneUniquePlausibleDirectoryLayout","False","0 uniquely plausible, suffix-matching layouts"
+"AllThreeRecovered","False","0 of 3"
+"NoErrors","False","1 errors"
+"DirectoryLayoutSemanticsVerified","False","Stride hypotheses are not a documented or independent format proof"
+"FileToTocOwnershipVerified","False","Index alignment and suffix agreement are insufficient"
+"GatheringCoordinatesVerified","False","No UCAS reads"
