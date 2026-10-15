@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ExactPathFrames","False","0 of 3"
+"ExactTargetFilenameFrames","False","0 of 7"
+"DirectoryIndexSectionVerified","False","Header-derived section offsets are candidate probes"
+"DirectoryTreeReconstructed","False","String chains are not independently linked to directory entries"
+"PackageToChunkMapped","False","No verified package/chunk references"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial schema decoded"

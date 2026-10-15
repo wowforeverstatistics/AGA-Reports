@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v18.0",
+    "Mode":  "Read-only header-derived section probes and independently framed filename inventory",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "ExactPathMatches":  0,
+    "ExactFilenameMatches":  0,
+    "SectionProbes":  0,
+    "FramedStrings":  0,
+    "ContiguousChains":  0,
+    "Errors":  5,
+    "DirectoryIndexSectionVerified":  false,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Section starts are competing hypotheses, not decoded directory-index offsets",
+                  "String frames and contiguous chains are evidence only for strings, not complete asset paths",
+                  "No directory graph is asserted without independent path reconstruction",
+                  "No UCAS reads or game modifications",
+                  "Windows PowerShell 5.1 runtime must be tested on Windows"
+              ]
+}
