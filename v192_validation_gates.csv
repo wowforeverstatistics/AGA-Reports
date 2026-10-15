@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"BaselineCandidatePathsPresent","True","4428 v19.1 candidates"
+"ThreeMountAnchorsRead","True","3 of 3"
+"StandaloneReferencesDiscovered","False","0 files; optional ReferenceFolder"
+"IndependentDirectoryPathsVerified","False","Filename matches alone cannot validate directory components"
+"PackageToPayloadMappingVerified","False","File-entry user data deliberately opaque"
+"GatheringCoordinatesVerified","False","No world-space payload decoding"

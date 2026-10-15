@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v19.2",
+    "Mode":  "Read-only independent filename corroboration, path uniqueness and opaque file-entry user-data investigation",
+    "Baseline":  "v19.1 rerun",
+    "ContainersProcessed":  3,
+    "CandidatePaths":  4428,
+    "GatheringKeywordCandidates":  2067,
+    "StandaloneReferenceFiles":  0,
+    "ExternalFilenameMatches":  0,
+    "TargetUserDataRows":  4,
+    "Errors":  0,
+    "DirectoryPathsIndependentlyVerified":  false,
+    "PackageToPayloadMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Standalone files must be placed in ReferenceAssets or supplied with -ReferenceFolder",
+                  "External basename agreement is not full-path or content verification",
+                  "Keyword matches are candidates, not confirmed gathering nodes",
+                  "No UCAS reads or game modification"
+              ]
+}
