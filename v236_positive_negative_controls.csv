@@ -1,0 +1,5 @@
+﻿"Control","Expected","Actual","FilesFound","Passed","EvidenceLevel"
+"HarvestLoop","True","True","True","True","L1_TextOnly"
+"TomatoCompanion","True","True","True","True","L1_TextOnly"
+"CrossResource","False","False","True","True","L1_TextOnly"
+"GenericLoop","False","False","True","True","L1_TextOnly"

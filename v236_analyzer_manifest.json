@@ -1,0 +1,28 @@
+﻿{
+    "Tool":  "AGA v23.6",
+    "Baseline":  "v23.5",
+    "Mode":  "Read-only full-catalog resource family discovery and coverage audit",
+    "CatalogPaths":  49935,
+    "GatheringRelevantPaths":  215,
+    "BaselineUniquePairs":  378,
+    "DiscoveredUniquePairs":  711,
+    "NewRelativeToBaseline":  399,
+    "ResourceGroups":  35,
+    "CrossContainerDuplicateRelativePaths":  0,
+    "InvestigationShortlistRows":  3,
+    "ControlsPassed":  4,
+    "ControlsTotal":  4,
+    "CoverageGroupsSkipped":  0,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Directory and filename groupings are hypotheses, not Unreal object references",
+                  "Full-catalog search is restricted to gathering-related textual families; not every pair in the catalog",
+                  "Cross-container identical relative paths are catalog overlaps, not confirmed collisions",
+                  "No UCAS reads, game file modifications, extraction, or world coordinates"
+              ]
+}

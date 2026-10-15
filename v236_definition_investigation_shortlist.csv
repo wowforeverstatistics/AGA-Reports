@@ -1,0 +1,4 @@
+﻿"Container","FileIndex","CandidateRelativePath","RoleHint","ResourceIdentifier","InvestigationScore","EvidenceLevel","GameplayFunctionVerified"
+"pakchunk300-WindowsClient.utoc","6598","AOC/Content/ENV/Gatherables/Blueprints/ActiveBrush.uasset","BlueprintOrDefinitionName","","7","L1_TextOnly","False"
+"pakchunk300-WindowsClient.utoc","6023","AOC/Content/ENV/Gatherables/Blueprints/HarvestableResource.uasset","BlueprintOrDefinitionName","","12","L1_TextOnly","False"
+"pakchunk300-WindowsClient.utoc","2794","AOC/Content/ENV/Gatherables/Blueprints/InactiveBrush.uasset","BlueprintOrDefinitionName","","7","L1_TextOnly","False"
