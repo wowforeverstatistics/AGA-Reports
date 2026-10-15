@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v21.4",
+    "Baseline":  "v21.3",
+    "Mode":  "Read-only exact 01/02 chunk ID prefix-pair TOC metadata correlations and negative controls",
+    "Containers":  3,
+    "ExactPairRows":  1518,
+    "UnpairedEntryRows":  2395,
+    "ShiftControlRows":  15,
+    "PairAttributeRows":  12,
+    "Errors":  0,
+    "ReproducesV213":  true,
+    "IndependentHoldoutDataset":  false,
+    "PairSemanticsVerified":  false,
+    "RecordBoundariesVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Exact 8-byte prefix pairing does not establish package identity",
+                  "MetadataUInt16 is an observed TOC-indexed value, not verified field semantics",
+                  "Shift controls re-pair 01 and 02 entries while preserving marginal distributions",
+                  "No UCAS reads or game modifications"
+              ]
+}
