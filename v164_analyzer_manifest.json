@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v16.4",
+    "Mode":  "Read-only bounded gatherable filename classification and gameplay name screening",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "AssetsLoaded":  8,
+    "UtocFilesInspected":  91,
+    "MagicMatches":  91,
+    "RawWindowFilenameHits":  16695,
+    "UniqueFilenameRecords":  8350,
+    "GatherableAssetCandidates":  78,
+    "GatherableFamilies":  45,
+    "GameplayNameCandidates":  3,
+    "Errors":  0,
+    "DirectoryOffsetVerified":  false,
+    "DirectoryDecoded":  false,
+    "GameplaySchemaVerified":  false,
+    "EncryptionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Classification uses filename patterns only; visuals are not node definitions",
+                  "Only two bounded 4096-byte windows per utoc; absence is not evidence of nonexistence",
+                  "No .ucas reads and no game file modifications"
+              ]
+}

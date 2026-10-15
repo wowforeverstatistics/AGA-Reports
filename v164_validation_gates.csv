@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"EightAssetsLoaded","True","Reference samples, distinct from IoStore filename sightings"
+"FilenameClassificationRun","True","Bounded filename records with category and asset-role heuristics"
+"GatherableCandidatesFound","True","Visual and plant naming candidates only"
+"DirectoryOffsetVerified","False","No independently validated IoStore directory-index parser"
+"GameplaySchemaVerified","False","No gameplay object payload parsed"
+"EncryptionVerified","False","No validated encryption metadata"
+"GatheringCoordinatesVerified","False","No validated world coordinates"
