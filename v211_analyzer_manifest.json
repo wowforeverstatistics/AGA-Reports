@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v21.1",
+    "Baseline":  "v21.0",
+    "Mode":  "Read-only candidate metadata vs chunk ID and TOC index relationship tests",
+    "Containers":  3,
+    "CandidatePairRows":  899,
+    "ContingencyRows":  48,
+    "IndexShiftControlRows":  9,
+    "RegionRelationshipRows":  9,
+    "Errors":  0,
+    "ReproducesV210":  true,
+    "IndependentHoldoutDataset":  false,
+    "RecordBoundariesVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Chunk ID and metadata are read from the same UTOC; variables are independently encoded, not independent datasets",
+                  "TOC-index comparisons are positional and do not establish file-entry mapping",
+                  "Index shifts are descriptive negative controls",
+                  "No UCAS reads or game modifications"
+              ]
+}
