@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ThreeContainersAnalyzed","True","3 / 3"
+"ReproducesV204PatternCounts","True","All container match/break totals must match v20.4"
+"RecordBoundariesVerified","False","Phase comparison is a hypothesis test"
+"MarkerSemanticsVerified","False","Signatures and recovery do not prove marker records"
+"Type9SemanticsVerified","False","Chunk type 9 remains descriptive"
+"GatheringPackageMappingVerified","False","File index to TOC mapping not established"
+"GatheringCoordinatesVerified","False","No UCAS payload reads"

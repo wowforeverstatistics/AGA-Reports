@@ -1,0 +1,21 @@
+﻿{
+    "Tool":  "AGA v20.5",
+    "Baseline":  "v20.4",
+    "Mode":  "Read-only break recovery, field signatures and local phase falsification",
+    "Containers":  3,
+    "BreakRecoveryRows":  176,
+    "FieldSignatureRows":  24,
+    "MarkerCandidateRows":  528,
+    "AlternativeAlignmentRows":  1760,
+    "Errors":  0,
+    "ReproducesV204":  true,
+    "RecordBoundariesVerified":  false,
+    "Type9SemanticsVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Phase shifts are tested locally in 16-bit units; not evidence of true alignment",
+                  "Marker candidates are descriptive only",
+                  "No UCAS payload reads or game modifications"
+              ]
+}
