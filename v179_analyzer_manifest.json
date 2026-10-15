@@ -1,0 +1,28 @@
+﻿{
+    "Tool":  "AGA v17.9",
+    "Mode":  "Read-only competing count and directory reference falsification",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "PathAnchorsProbed":  3,
+    "ExactPathMatches":  3,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "BoundaryModels":  180,
+    "ReferenceModels":  180,
+    "CycleModels":  180,
+    "BoundaryHexContexts":  180,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Competing count interpretations FirstU32, 128 control, double, plus one",
+                  "Widths 12/16/20 and shifts 0/4/8/12/16; reference tests only on 16-byte non-control models",
+                  "Out-of-range values falsify index-only reference hypothesis for that field and proposed count, not every possible schema",
+                  "Candidate cycles are not proof of tree links",
+                  "Boundaries include 32-byte before/after hex for manual comparison",
+                  "No UCAS reads or game modifications",
+                  "Windows PowerShell 5.1 runtime testing required"
+              ]
+}

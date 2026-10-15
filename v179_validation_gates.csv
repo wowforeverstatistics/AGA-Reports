@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ExactPathFrames","True","3 of 3"
+"ExactTargetFilenameFrames","True","7 of 7"
+"DirectoryArrayBoundaryVerified","False","Candidate byte boundaries have no independent schema confirmation"
+"DirectoryGraphVerified","False","Reference and cycle hypotheses remain unverified"
+"PackageToChunkMapped","False","No verified package/chunk references"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial schema decoded"
