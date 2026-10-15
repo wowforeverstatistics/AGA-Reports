@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"FiveContainersProcessed","True","5 of 5"
+"ExactTargetFilenameFrames","True","7 of 7"
+"ConsecutiveStringStreamDecoded","True","18659 frames decoded; opaque gaps separately recorded"
+"DirectoryParentReferencesVerified","False","No binary parent/child/sibling links independently decoded"
+"CompletePathsReconstructed","False","Candidates use proximity only and are not validated"
+"PackageToChunkMapped","False","No verified package/chunk references"
+"GatheringCoordinatesVerified","False","No gameplay payload decoded"

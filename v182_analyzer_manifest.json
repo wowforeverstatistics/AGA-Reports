@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v18.2",
+    "Mode":  "Read-only full length-prefixed string stream and proximity-only path hypothesis falsification",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProcessed":  5,
+    "DecodedFrames":  18659,
+    "TargetRows":  7,
+    "OpaqueTransitions":  79,
+    "NegativeControls":  0,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "CompletePathsVerified":  false,
+    "PackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "BaselineAnalyzer":  "v18.0.1 rerun",
+    "Notes":  [
+                  "DirectoryLike means printable framed string without asset extension, not a verified directory node",
+                  "ProximityOnlyCandidate is deliberately unverified and may be wrong",
+                  "Opaque gaps retained; no parent-child-sibling semantics asserted",
+                  "No UCAS reads or game modifications",
+                  "Windows PowerShell 5.1 runtime requires testing on Windows"
+              ]
+}

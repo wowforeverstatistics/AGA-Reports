@@ -1,0 +1,8 @@
+﻿"File","Target","Offset","ExactFramed","AdjacentDirectoryTokens","ProximityOnlyCandidate","CandidateIsVerified","DirectoryParentReferenceFound","FullPathVerified","PackageIdVerified"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNodeTable.uasset","515815","True","","ResourceNodeTable.uasset","False","False","False","False"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNodeType.uasset","581756","True","","ResourceNodeType.uasset","False","False","False","False"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNode.uasset","590002","True","","ResourceNode.uasset","False","False","False","False"
+"pakchunk200_s5-WindowsClient.utoc","AoCHarvestableBase.uasset","598273","True","","AoCHarvestableBase.uasset","False","False","False","False"
+"pakchunk300-WindowsClient.utoc","HarvestableResource.uasset","651056","True","","HarvestableResource.uasset","False","False","False","False"
+"pakchunk0-WindowsClient.utoc","BTT_Bot_UpdateHarvestableTarget.uasset","744145","True","","BTT_Bot_UpdateHarvestableTarget.uasset","False","False","False","False"
+"pakchunk0-WindowsClient.utoc","BTD_Bot_IsInHarvestableRange.uasset","834827","True","","BTD_Bot_IsInHarvestableRange.uasset","False","False","False","False"
