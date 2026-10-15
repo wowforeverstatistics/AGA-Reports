@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"FullCatalogConsumed","True","49935 candidate path records"
+"GatheringKeywordCoverage","True","313 classified; 313 evidence rows"
+"EveryRecordHasFamily","True","All catalog records counted by family"
+"NoAnalyzerErrors","True","0 errors"
+"IndependentPathVerification","False","Candidate metadata decoding not independently corroborated"
+"GameplayFunctionVerified","False","Filenames alone cannot establish gameplay function"
+"GatheringCoordinatesVerified","False","No UCAS reads or world-coordinate extraction"

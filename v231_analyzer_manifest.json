@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v23.1",
+    "Baseline":  "v23.0",
+    "Mode":  "Read-only candidate asset family and filename evidence classification",
+    "CandidatePathsConsumed":  49935,
+    "GatheringKeywordCandidateRows":  313,
+    "CandidateFamilies":  49165,
+    "GatheringKeywordFamilies":  193,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "GameplayFunctionVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Asset family is container + candidate directory + filename stem, not a verified Unreal object relationship",
+                  "Blueprint, data table, mesh, material and texture labels are filename-based hints only",
+                  "No UCAS reads, game modifications, asset content extraction, or world coordinates"
+              ]
+}
