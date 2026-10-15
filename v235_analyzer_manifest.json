@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v23.5",
+    "Baseline":  "v23.4",
+    "Mode":  "Read-only relationship recall, classification and undirected deduplication",
+    "CatalogPaths":  49935,
+    "PreviousDirectedEdges":  1583,
+    "PreviousUniqueUndirectedPairs":  1030,
+    "V234SurvivingDirectedEdges":  720,
+    "RecoveredSpecificNameDirectedRows":  13,
+    "V235UniqueUndirectedPairs":  378,
+    "PositiveNegativeControls":  8,
+    "ControlsPassed":  8,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Unique pairs are normalized by container and file index; no reference direction inferred",
+                  "Role categories are filename hints only; physics is not animation",
+                  "No UCAS reads, asset extraction, modifications, or coordinates"
+              ]
+}

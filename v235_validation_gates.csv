@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"FullCatalogConsumed","True","49935 paths"
+"AllOldEdgesAccounted","True","1583 directed rows"
+"PositiveNegativeControls","True","8 / 8 passed"
+"NoAnalyzerErrors","True","0 errors"
+"ObjectReferencesVerified","False","No decoded binary object references"
+"GameplayFunctionVerified","False","Textual relationships only"
+"GatheringCoordinatesVerified","False","No world coordinates read"
