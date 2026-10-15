@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v20.4",
+    "Baseline":  "v20.3",
+    "Mode":  "Read-only field transition and candidate record segment falsification",
+    "Containers":  3,
+    "FieldDeltaRows":  5394,
+    "BreakRows":  176,
+    "CandidateSegments":  179,
+    "Errors":  0,
+    "RecordBoundaryVerified":  false,
+    "Type9SemanticsVerified":  false,
+    "PackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Compares all six uint16 positions at each adjacent candidate record",
+                  "Segments are hypothesis-dependent, not verified structural records",
+                  "No UCAS reads or game modifications"
+              ]
+}

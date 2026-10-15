@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"ThreeContainersAnalyzed","True","3 / 3"
+"MatchesV203PatternTotals","True","Checks all match and counterexample totals against v20.3"
+"RecordBoundariesIndependentlyVerified","False","Candidate segmentation is statistical only"
+"Type9SemanticsVerified","False","Classification only"
+"GatheringPackageMappingVerified","False","File index to TOC mapping not proven"
+"GatheringCoordinatesVerified","False","No UCAS payload reads"
