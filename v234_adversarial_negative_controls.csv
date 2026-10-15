@@ -1,0 +1,7 @@
+﻿"SourceFilename","TargetFilename","Result","CorrectlyRejected","VerifiedReference"
+"CM_M_1H_SCK_HarvestLoop.uasset","CM_M_ABLT_CowMilk_Loop_Montage.uasset","RejectNoSharedResourceIdentifier","True","False"
+"CM_M_1H_SCK_HarvestLoop.uasset","CM_M_ABLT_PigLoop_Montage2.uasset","RejectNoSharedResourceIdentifier","True","False"
+"CM_M_1H_SCK_HarvestLoop.uasset","CM_M_ABLT_ChoppingLoop_OneHit.uasset","RejectNoSharedResourceIdentifier","True","False"
+"PS_Harvest_Iron_Active.uasset","ScotsPine_Harvest_Idle.uasset","RejectCrossContainer","True","False"
+"SM_Gatherables_Zinc_Chunk_01.uasset","SM_Gatherables_Barley_Sprout_01.uasset","RejectNoSharedResourceIdentifier","True","False"
+"T_Gatherables_Tomato_D.uasset","T_Gatherables_WeepingWillow_Bark_01_D.uasset","RejectCrossContainer","True","False"

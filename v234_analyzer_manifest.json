@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v23.4",
+    "Baseline":  "v23.3",
+    "Mode":  "Read-only strict textual-edge reclassification and adversarial controls",
+    "CatalogPaths":  49935,
+    "Anchors":  439,
+    "PriorEdges":  1583,
+    "SurvivingEdges":  720,
+    "RejectedEdges":  863,
+    "UnresolvedEdges":  0,
+    "NegativeControls":  6,
+    "NegativeControlsPassed":  true,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "FileToTocOwnershipVerified":  false,
+    "ObjectReferencesVerified":  false,
+    "GameplayFunctionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Surviving edges are filtered v23.3 textual links, not new decoded object references",
+                  "Explicit resource identifier allowlist; shared generic words alone never suffice",
+                  "No UCAS reads, asset extraction, modifications, or coordinate discovery"
+              ]
+}
