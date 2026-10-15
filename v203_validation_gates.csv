@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"ThreeContainersAnalyzed","True","3 / 3"
+"MatchesV202CounterexampleTotals","True","Recomputes record pairs from v20.0 inventory"
+"Type9SemanticRoleVerified","False","Only candidate type-byte classification"
+"12ByteRecordBoundaryIndependentlyVerified","False","Pattern comparisons are not a structural proof"
+"GatheringAssetPackageMappingVerified","False","File-to-TOC mapping unverified"
+"GatheringCoordinatesVerified","False","No payload decoding"

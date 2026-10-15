@@ -1,0 +1,19 @@
+﻿{
+    "Tool":  "AGA v20.3",
+    "Baseline":  "v20.2",
+    "Mode":  "Read-only record transition and type-9 structural classification",
+    "Containers":  3,
+    "MetadataEntries":  5431,
+    "RecordTransitionRows":  899,
+    "TypeRunRows":  976,
+    "Errors":  0,
+    "RecordBoundaryVerified":  false,
+    "Type9SemanticsVerified":  false,
+    "PackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Record boundaries remain hypothetical",
+                  "Type-9 classification is descriptive",
+                  "No UCAS reads or game modifications"
+              ]
+}
