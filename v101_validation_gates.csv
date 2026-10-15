@@ -1,8 +1,0 @@
-﻿"Gate","Passed","Verified","Evidence","Note"
-"BaselineV100Completed","True","True","v10.0 errors: 0","Execution only"
-"PaksFolderAccessible","True","True","F:\Steam\steamapps\common\Ashes of Creation\Game\AOC\Content\Paks","Local directory read-only access"
-"ContainerFilesFound","True","True","182 .utoc/.ucas files","Filename enumeration only"
-"AllUtocHaveUcas","True","True","91 / 91","Filename pair existence only"
-"ExpectedTocMagicObserved","True","False","91 / 91","Magic check is not format validation"
-"VerifiedChunkToAssetMapping","False","False","Not established","Requires a compatible independently validated IoStore directory/chunk parser"
-"VerifiedResourcePropertiesOrSpawnCoordinates","False","False","Not established","No property or world-placement decoding"
