@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ExactPathFrames","True","3 of 3"
+"ExactTargetFilenameFrames","True","7 of 7"
+"DirectoryGraphParsed","False","Sample-only graph models; full array bounds, root and field semantics not established"
+"ReferenceSemanticsVerified","False","Index-range and cycle tests are candidate-only, no independently verified references"
+"PackageToChunkMapped","False","No verified package/chunk references"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No coordinate schema decoded"
