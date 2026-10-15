@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"TenHoldoutHeadersExamined","True","10 / 10"
+"AtLeastOneHoldoutDirectoryDecoded","True","7 holdouts decoded"
+"AtLeastOneHoldoutReproducesSuffixPartition","True","7 matching holdouts"
+"AllHoldoutContainersDecodeCleanly","False","7 decoded; 0 errors; 3 rejected"
+"IndependentFileToTocOwnershipVerified","False","Suffix agreement does not establish encoded ownership semantics"
+"GatheringCoordinatesVerified","False","No UCAS reads"

@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v22.1",
+    "Baseline":  "v22.0",
+    "Mode":  "Read-only cross-container holdout probes",
+    "RequestedHoldouts":  10,
+    "HeaderProbes":  10,
+    "DirectoryDecodes":  7,
+    "FileEntries":  26675,
+    "PartitionRows":  23,
+    "AnchorRejections":  3,
+    "Errors":  0,
+    "HoldoutsMatchingOriginalSuffixPartition":  7,
+    "IndependentFileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Holdout containers are new to the directory decoding dataset",
+                  "Directory mount discovery is heuristic and rejected if ambiguous",
+                  "A failed holdout is not positive evidence",
+                  "Matching suffix partition is structural corroboration, not verified file ownership",
+                  "No UCAS payload reads or game-file modification"
+              ]
+}
