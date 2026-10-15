@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v20.6",
+    "Baseline":  "v20.5",
+    "Mode":  "Read-only marker index correction and independent width/phase comparison",
+    "Containers":  3,
+    "Breaks":  176,
+    "CorrectedMarkerRows":  352,
+    "PhaseControlRows":  1936,
+    "WidthPhaseRows":  198,
+    "Errors":  0,
+    "MarkerIndexChecksPassed":  true,
+    "RecordBoundaryVerified":  false,
+    "MarkerSemanticsVerified":  false,
+    "Type9SemanticsVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Index checks use explicit k and k+1 with no variable shadowing",
+                  "Byte offsets are relative to the decoded uint16 metadata values, not absolute UTOC offsets",
+                  "Width/phase matches are statistical, not proof of structure",
+                  "No UCAS reads or game modification"
+              ]
+}
