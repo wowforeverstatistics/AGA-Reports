@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v16.9",
+    "Mode":  "Read-only bounded directory-structure falsification and filename-chain controls",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "SectionHypotheses":  5,
+    "TailChainRows":  5,
+    "Errors":  0,
+    "DirectoryIndexVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "12-byte arrays are hypotheses, not accepted IoStore directory structures",
+                  "Filename adjacency is not proof of directory tree membership",
+                  "At most 64KiB tail plus 4KiB per target, and 144-byte header per file; no UCAS reads",
+                  "No game files modified; Windows PowerShell 5.1 runtime not tested"
+              ]
+}

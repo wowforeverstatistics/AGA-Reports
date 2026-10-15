@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"ExactFilenameAnchors","True","7 of 7 target filename frames"
+"HeaderSignatureConsistency","True","Magic/version/header size consistency only"
+"DirectoryIndexVerified","False","No validated directory-tree parser or section integrity"
+"PackageIdOrChunkMappingVerified","False","No independent package-to-chunk mapping"
+"GameplaySchemaVerified","False","No asset payload decoded"
+"GatheringCoordinatesVerified","False","No coordinate schema decoded"

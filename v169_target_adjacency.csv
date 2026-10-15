@@ -1,0 +1,8 @@
+﻿"File","Target","Offset","ExactFramed","AfterHypotheticalBlockEnd","PreviousContiguous","NextContiguous","PreviousName","NextName","DirectoryRecordVerified","PayloadMapped"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNodeTable.uasset","515815","True","True","True","True","SM_GoreDiorama_VekFoot_01.uasset","SM_Aelan_Flagstone_Road_Sliver_02.uasset","False","False"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNodeType.uasset","581756","True","True","True","True","T_Cave_Ice_Noise_D.uasset","Master_Speedtree_Foliage_Glow.uasset","False","False"
+"pakchunk200_s5-WindowsClient.utoc","ResourceNode.uasset","590002","True","True","True","True","FT_Gatherables_VolcanicRock_Medium_2.uasset","Basalt_Tiling_ORM.ubulk","False","False"
+"pakchunk200_s5-WindowsClient.utoc","AoCHarvestableBase.uasset","598273","True","True","True","True","MI_Ancients_CorruptedEssenceStore_01.uasset","Starfish_01_N.uasset","False","False"
+"pakchunk300-WindowsClient.utoc","HarvestableResource.uasset","651056","True","True","True","True","ALS_N_Falling_LeanPose_R.uasset","CM_M_AMB_Generic_Crafting_Loop.uasset","False","False"
+"pakchunk0-WindowsClient.utoc","BTT_Bot_UpdateHarvestableTarget.uasset","744145","True","True","True","True","TUI_Icon_Consumable_Food_AlchemistsAppleTart.uasset","TUI_Icon_Consumable_Drink_WarpAndWeftWheat.uasset","False","False"
+"pakchunk0-WindowsClient.utoc","BTD_Bot_IsInHarvestableRange.uasset","834827","True","True","True","True","C_0_2_2.uasset","TUI_Icon_Gear_Weapons_Sword_2H_Common.uasset","False","False"
