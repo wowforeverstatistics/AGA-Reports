@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v21.2",
+    "Baseline":  "v21.1",
+    "Mode":  "Read-only chunk ID byte-position variability, layout hypotheses, pair correlations, shift controls",
+    "Containers":  3,
+    "ByteVariabilityRows":  36,
+    "LayoutRows":  18,
+    "CandidatePairRows":  899,
+    "ShiftControlRows":  180,
+    "Errors":  0,
+    "ReproducesV211":  true,
+    "IndependentHoldoutDataset":  false,
+    "ChunkIdFieldSemanticsVerified":  false,
+    "RecordBoundariesVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Chunk ID layout hypotheses do not establish official Unreal field definitions",
+                  "Metadata and chunk IDs are from the same UTOC files",
+                  "Byte-position shift controls preserve container distributions",
+                  "No UCAS reads or game-file modifications"
+              ]
+}
