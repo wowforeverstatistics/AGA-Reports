@@ -1,0 +1,7 @@
+﻿"Container","CandidateReferenceField","FileEntries","TocEntries","ValuesInTocRange","ValuesOutOfTocRange","DistinctInRangeIndices","HighestCandidateIndex","ZeroMetadataAtCandidateIndices","ChunkType01","ChunkType02","ChunkType09","OtherChunkTypes","ActualReferenceEncodingVerified","Note"
+"pakchunk200_s5-WindowsClient.utoc","FileIndex","2932","2933","2932","0","2932","2931","1389","1954","977","0","1","False","In-range value and chunk type frequencies do not prove file-to-TOC ownership"
+"pakchunk200_s5-WindowsClient.utoc","UserDataUInt32","2932","2933","2932","0","2932","2932","1390","1955","977","0","0","False","In-range value and chunk type frequencies do not prove file-to-TOC ownership"
+"pakchunk1000-WindowsClient.utoc","FileIndex","930","1931","930","0","930","929","359","307","155","467","1","False","In-range value and chunk type frequencies do not prove file-to-TOC ownership"
+"pakchunk1000-WindowsClient.utoc","UserDataUInt32","930","1931","930","0","930","1930","374","614","315","0","1","False","In-range value and chunk type frequencies do not prove file-to-TOC ownership"
+"pakchunk200_s4-WindowsClient.utoc","FileIndex","566","567","566","0","566","565","277","340","225","0","1","False","In-range value and chunk type frequencies do not prove file-to-TOC ownership"
+"pakchunk200_s4-WindowsClient.utoc","UserDataUInt32","566","567","566","0","566","566","277","340","226","0","0","False","In-range value and chunk type frequencies do not prove file-to-TOC ownership"

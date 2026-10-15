@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v21.7",
+    "Baseline":  "v21.6",
+    "Mode":  "Read-only directory file-record field audit and candidate TOC reference falsification",
+    "Containers":  3,
+    "DirectoryReferenceRows":  4428,
+    "ReferenceHypothesisRows":  6,
+    "GatheringCandidateRows":  8,
+    "ChunkTypeClassificationRows":  6,
+    "Errors":  0,
+    "EncodedFileToTocReferenceVerified":  false,
+    "FileToTocMappingVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "File record NameIndex, NextFile, UserDataUInt32 are observed raw fields",
+                  "UserDataUInt32 is NOT assumed to be a TOC index",
+                  "Numeric chunk type classification corrects the v21.6 1 versus 01 mismatch",
+                  "Extra TOC entries are descriptive counts, not proven package/chunk ownership",
+                  "No UCAS payload reads or game file modifications"
+              ]
+}
