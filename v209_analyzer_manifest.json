@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v20.9",
+    "Baseline":  "v20.8",
+    "Mode":  "Read-only signature families, gap consistency, break clusters and byte-order controls",
+    "Containers":  3,
+    "IsolatedMotifRows":  52,
+    "SignatureFamilyRows":  33,
+    "JumpConsistencyRows":  19,
+    "BreakClusterRows":  67,
+    "ByteOrderRows":  3,
+    "Errors":  0,
+    "ReproducesV208":  true,
+    "RecordBoundariesVerified":  false,
+    "MarkerSemanticsVerified":  false,
+    "FirstFieldMeaningVerified":  false,
+    "EndiannessVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Jump consistency is descriptive; sparse signatures are not predictive proof",
+                  "Byte swapping tests only the first candidate field",
+                  "Empty CSV headers are written with proper CSV quoting",
+                  "No UCAS reads or game modification"
+              ]
+}
