@@ -1,0 +1,20 @@
+﻿{
+    "Tool":  "AGA v23.2",
+    "Baseline":  "v23.1",
+    "Mode":  "Read-only full-family export audit and gathering gameplay filename prioritization",
+    "CandidatePathsConsumed":  49935,
+    "GatheringKeywordRows":  313,
+    "FullFamilyRows":  49165,
+    "FamilyMemberTotal":  49935,
+    "PrioritizedCandidateRows":  439,
+    "Errors":  0,
+    "IndependentPathVerification":  false,
+    "GameplayFunctionVerified":  false,
+    "FileToTocOwnershipVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Full family CSV is checked on disk rather than inferred empty from connector output",
+                  "Ranking score is a textual investigation heuristic, not proof of gameplay functionality",
+                  "No UCAS reads, game file modifications, or world coordinate extraction"
+              ]
+}

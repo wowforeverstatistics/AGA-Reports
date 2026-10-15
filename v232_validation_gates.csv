@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"FullCandidatePathCatalog","True","49935 candidate paths"
+"FamilyExportHasRows","True","49165 parsed families, 15512630 bytes"
+"FamilyMembersCoverCatalog","True","49935 member records / 49935 candidate paths"
+"NoAnalyzerErrors","True","0 errors"
+"IndependentPathVerification","False","No independent path reference supplied"
+"GameplayFunctionVerified","False","Ranking is based on path and filename tokens only"
+"GatheringCoordinatesVerified","False","No asset content or world coordinates read"
