@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"TargetFilenameFraming","True","7 of 7 exact target filename frames"
+"HeaderPlausibility","True","Magic prefix and bounded header size, not complete header schema"
+"DirectoryIndexVerified","False","No parsed directory tree or independent index bounds verification"
+"PackageIdOrChunkMappingVerified","False","No validated filename-to-package mapping"
+"GameplaySchemaVerified","False","No payload extraction or gameplay object parsing"
+"GatheringCoordinatesVerified","False","No spatial schema parsed"

@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v16.8",
+    "Mode":  "Read-only IoStore header layout and section boundary falsification",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "SectionHypotheses":  5,
+    "ShiftedControlRows":  35,
+    "Errors":  0,
+    "DirectoryIndexVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Header layout values are provisional and must be checked against matching engine implementation",
+                  "12-byte array layout is a falsifiable hypothesis, not an accepted directory-index mapping",
+                  "No UCAS reads or game file modifications",
+                  "Windows PowerShell 5.1 execution must be validated on the user machine"
+              ]
+}
