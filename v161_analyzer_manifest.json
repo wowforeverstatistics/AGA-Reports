@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v16.1",
+    "Mode":  "Read-only IoStore section-adjustment controls and bounded generic serialization probes",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "AssetsLoaded":  8,
+    "UtocFilesInspected":  91,
+    "MagicMatches":  91,
+    "RegularContainers":  90,
+    "ResidualClassRows":  91,
+    "SectionAdjustmentRows":  455,
+    "SerializationProbeRows":  455,
+    "Errors":  0,
+    "DirectoryOffsetVerified":  false,
+    "DirectoryDecoded":  false,
+    "EncryptionVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "No directory index deserialization performed",
+                  "FString framing is a generic negative/positive control, not an IoStore proof",
+                  "Candidate header fields and entry widths remain unverified",
+                  "Read-only: at most 256 header bytes and 512 bytes per candidate probe; no game file modifications"
+              ]
+}
