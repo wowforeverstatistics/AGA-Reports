@@ -1,0 +1,25 @@
+﻿{
+    "Tool":  "AGA v17.3",
+    "Mode":  "Read-only header word48 and candidate section-offset reconciliation",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "ContainersProbed":  5,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "HeaderRows":  5,
+    "SectionModelRows":  45,
+    "BoundaryProbeRows":  30,
+    "Errors":  0,
+    "HeaderSchemaVerified":  false,
+    "DirectoryIndexVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Observed filename bounds are carried forward from v17.0 and are not independently exhaustive",
+                  "Word48 as byte length is a test hypothesis only",
+                  "Competing 10/12/16-byte block models and 0/4/8-byte extras are not verified IoStore schemas",
+                  "No UCAS reads or game file modifications",
+                  "Windows PowerShell 5.1 runtime not tested in build environment"
+              ]
+}

@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"HeaderPlausibility","True","Signature/version/header-size only"
+"ExactTargetFilenameFrames","True","7 of 7"
+"HeaderFieldSchemaVerified","False","Word48 meaning and section widths remain hypotheses"
+"DirectoryTreeParsed","False","No independent directory entry parser"
+"PackageToChunkMapped","False","No verified package/chunk mapping"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial payload decoded"
