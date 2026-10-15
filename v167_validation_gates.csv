@@ -1,0 +1,7 @@
+﻿"Gate","Passed","Evidence"
+"ExactFilenameTargets","True","7/7 matched"
+"ReadOnlyBoundedUtoc","True","No UCAS reads; 256-byte headers, 8KiB target windows, 64-byte candidate samples"
+"DirectoryIndexVerified","False","Header pair hypotheses lack structural or checksum validation"
+"PackageIdOrChunkMappingVerified","False","No validated mapping from filename to package ID or chunk"
+"GameplaySchemaVerified","False","No asset payload parsed"
+"GatheringCoordinatesVerified","False","No world coordinates parsed"

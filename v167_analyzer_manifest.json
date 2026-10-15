@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v16.7",
+    "Mode":  "Read-only IoStore header-pair falsification and target filename region controls",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "Containers":  3,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "HeaderWordRows":  192,
+    "HeaderPairHypotheses":  57,
+    "TargetRegionRows":  7,
+    "NegativeControlRows":  49,
+    "Errors":  0,
+    "DirectoryIndexVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Header pairs are deliberately unverified hypotheses, not decoded IoStore fields",
+                  "Filename byte offsets are not asset payload offsets",
+                  "No UCAS reads and no game-file modifications",
+                  "Windows PowerShell 5.1 runtime testing required"
+              ]
+}
