@@ -1,0 +1,4 @@
+﻿"Container","DirectoryFiles","TocEntries","DistinctUserDataValues","DuplicateUserDataValues","UserDataOutOfTocRange","StrictlyIncreasingUserData","PositiveGapTransitions","SkippedIndicesBetweenEndpoints","SkippedTocIndices","SkippedSuffix01","SkippedSuffix02","SkippedSuffix09","SelectedSuffix01","SelectedSuffix02","SelectedSuffix09","UserDataReferenceSemanticsVerified","FileToTocMappingVerified"
+"pakchunk200_s5-WindowsClient.utoc","2932","2933","2932","0","0","True","1","1","1","0","0","0","1955","977","0","False","False"
+"pakchunk1000-WindowsClient.utoc","930","1931","930","0","0","True","486","999","1001","0","0","1000","614","315","0","False","False"
+"pakchunk200_s4-WindowsClient.utoc","566","567","566","0","0","True","1","1","1","0","0","0","340","226","0","False","False"

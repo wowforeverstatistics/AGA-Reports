@@ -1,0 +1,22 @@
+﻿{
+    "Tool":  "AGA v21.8",
+    "Baseline":  "v21.7",
+    "Mode":  "Read-only UserData-to-TOC alignment and skipped-entry falsification",
+    "Containers":  3,
+    "TransitionRows":  4425,
+    "SkippedTocRows":  1003,
+    "ShiftControlRows":  24,
+    "GatheringCandidateRows":  4,
+    "Errors":  0,
+    "UserDataReferenceSemanticsVerified":  false,
+    "FileToTocMappingVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Skipped TOC entries are unselected by UserData values, not proven unused or unowned",
+                  "Monotonicity and suffix distributions are structural observations only",
+                  "Modulo-shift controls are deterministic and not independent evidence",
+                  "Gathering candidate stability only reproduces previously hypothetical mappings",
+                  "No UCAS reads or game modifications"
+              ]
+}
