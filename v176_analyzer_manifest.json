@@ -1,0 +1,24 @@
+﻿{
+    "Tool":  "AGA v17.6",
+    "Mode":  "Read-only post-path candidate entry width and FFFFFFFF sentinel controls",
+    "DiscoveryFolder":  "F:\\Steam\\steamapps\\common\\Ashes of Creation\\Game\\AOC\\Content\\Paks",
+    "PathAnchorsProbed":  3,
+    "ExactPathMatches":  3,
+    "TargetsProbed":  7,
+    "ExactFilenameMatches":  7,
+    "WidthModelRows":  36,
+    "CandidateRecordRows":  432,
+    "NegativeControlRows":  27,
+    "Errors":  0,
+    "DirectoryTreeVerified":  false,
+    "PackageIdOrChunkMappingVerified":  false,
+    "GameplaySchemaVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "PriorAnalyzersRerun":  false,
+    "Notes":  [
+                  "Post-path binary sampled as candidate 12/16/20-byte records at four alignments",
+                  "FFFFFFFF frequency does not prove missing-reference semantics",
+                  "No UCAS reads or game file changes",
+                  "Windows PowerShell 5.1 execution must be tested on Windows"
+              ]
+}

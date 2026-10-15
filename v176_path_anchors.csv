@@ -1,0 +1,4 @@
+﻿"File","PathOffset","Path","ExactFramed","RecordEnd","BytesAfterPath","FirstU32","DirectoryArrayVerified"
+"pakchunk200_s5-WindowsClient.utoc","461510","../../../AOC/Content/ENV/","True","461540","4096","493","False"
+"pakchunk1000-WindowsClient.utoc","216194","../../../AOC/Content/","True","216220","4096","177","False"
+"pakchunk200_s4-WindowsClient.utoc","384086","../../../AOC/Content/ENV/Biomes/Universal/","True","384133","4096","27","False"

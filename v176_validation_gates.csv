@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ExactPathFrames","True","3 of 3"
+"ExactTargetFilenameFrames","True","7 of 7"
+"DirectoryEntryArrayParsed","False","Widths and sentinel counts are exploratory controls only"
+"SentinelSemanticsVerified","False","FFFFFFFF may have multiple meanings; no independent index references decoded"
+"PackageToChunkMapped","False","No package/chunk relationship verified"
+"GameplayPayloadDecoded","False","No UCAS reads"
+"GatheringCoordinatesVerified","False","No spatial schema decoded"
