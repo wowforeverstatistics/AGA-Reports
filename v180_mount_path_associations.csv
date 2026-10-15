@@ -1,1 +1,4 @@
 ﻿"File","PathOffset","MountPath","ExactFramed","ReconstructedAssetPaths","DirectoryEntryMapped","Notes"
+"pakchunk200_s5-WindowsClient.utoc","461510","../../../AOC/Content/ENV/","True","0","False","Mount path framing does not establish links to asset names"
+"pakchunk1000-WindowsClient.utoc","216194","../../../AOC/Content/","True","0","False","Mount path framing does not establish links to asset names"
+"pakchunk200_s4-WindowsClient.utoc","384086","../../../AOC/Content/ENV/Biomes/Universal/","True","0","False","Mount path framing does not establish links to asset names"

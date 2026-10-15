@@ -1,1 +1,8 @@
 ﻿"File","Offset","Target","ExactFramed","ReconstructedPath","DirectoryEntryId","PackageId","ChunkId","Mapped"
+"pakchunk200_s5-WindowsClient.utoc","515815","ResourceNodeTable.uasset","True","","","","","False"
+"pakchunk200_s5-WindowsClient.utoc","581756","ResourceNodeType.uasset","True","","","","","False"
+"pakchunk200_s5-WindowsClient.utoc","590002","ResourceNode.uasset","True","","","","","False"
+"pakchunk200_s5-WindowsClient.utoc","598273","AoCHarvestableBase.uasset","True","","","","","False"
+"pakchunk300-WindowsClient.utoc","651056","HarvestableResource.uasset","True","","","","","False"
+"pakchunk0-WindowsClient.utoc","744145","BTT_Bot_UpdateHarvestableTarget.uasset","True","","","","","False"
+"pakchunk0-WindowsClient.utoc","834827","BTD_Bot_IsInHarvestableRange.uasset","True","","","","","False"
