@@ -1,0 +1,8 @@
+﻿"Gate","Passed","Evidence"
+"ThreeContainersAnalyzed","True","3 / 3"
+"ReproducesV204PatternCounts","True","Independent first-field and tail comparisons per container"
+"RecordBoundaryIndependentlyVerified","False","Six-field grouping remains hypothetical"
+"FieldSemanticsVerified","False","Tail signature labels describe bytes, not interpreted structures"
+"SequenceMeaningVerified","False","First-field gaps are numeric observations"
+"GatheringPackageMappingVerified","False","No proven file-to-TOC mapping"
+"GatheringCoordinatesVerified","False","No UCAS payload reads"

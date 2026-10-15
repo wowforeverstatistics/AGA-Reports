@@ -1,0 +1,23 @@
+﻿{
+    "Tool":  "AGA v20.7",
+    "Baseline":  "v20.6",
+    "Mode":  "Read-only six-field signature, sequence gap, break boundary and predictive association",
+    "Containers":  3,
+    "CandidateRecordRows":  902,
+    "TailSignatureRows":  115,
+    "SequenceGapRows":  899,
+    "BreakBoundaryRows":  176,
+    "PredictionRows":  6,
+    "Errors":  0,
+    "ReproducesV204":  true,
+    "RecordBoundaryVerified":  false,
+    "FieldSemanticsVerified":  false,
+    "SequenceMeaningVerified":  false,
+    "GatheringPackageMappingVerified":  false,
+    "GatheringCoordinatesVerified":  false,
+    "Notes":  [
+                  "Prediction comparison is mechanically coupled to the tail-equality matching rule; not independent evidence of causality",
+                  "Byte offsets are relative to decoded metadata values",
+                  "No UCAS reads or game modifications"
+              ]
+}
